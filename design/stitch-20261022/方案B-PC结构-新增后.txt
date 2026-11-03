@@ -1,0 +1,1596 @@
+Browser tab: 1980452959, Title: "Stitch - Projects", URL: "https://stitch.withgoogle.com/projects/2022685832470574170".
+0 AXWebArea Stitch - Projects, URL: stitch.withgoogle.com/projects/2022685832470574170
+	1 container
+		2 container Description: Stitch - Design with AI, ID: I0_1792632361691
+			3 AXWebArea Stitch, URL: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#id=I0_1792632361691&_gfid=I0_1792632361691&parent=https%3A%2F%2Fstitch.withgoogle.com&pfname=&rpctoken=35982182
+				4 container
+					5 container
+						6 container
+							7 container
+								8 pop up button (collapsed) Secondary Actions: Expand
+									9 image
+								10 button TK 标题检查 · PC端样式
+								11 button Rename Project
+									12 image
+							13 container
+								14 button
+									15 image
+								16 button Export
+									17 image
+									18 text Export
+								19 button Share
+									20 image
+									21 text Share
+								22 pop up button (collapsed) Description: Account Menu, Secondary Actions: Expand
+									23 image Profile image for weko bear
+							24 button
+								25 image
+							26 button
+								27 image
+							28 button
+								29 image
+							30 button
+								31 image
+							32 container
+								33 button 选择文件
+								34 button
+									35 image
+							36 button
+								37 image
+							38 button
+								39 image
+							40 button Undo
+							41 button (disabled) Redo
+							42 pop up button (collapsed) 16%, Secondary Actions: Expand
+							43 pop up button (collapsed) Description: Helpful Links, Secondary Actions: Expand
+								44 image
+							45 button 选择文件
+							46 container
+								47 container
+									48 container
+										49 text TK Title Inspector
+										50 text Primary
+										51 text #2563EB
+										52 text Secondary
+										53 text #667085
+										54 text Tertiary
+										55 text #B54708
+										56 text Neutral
+										57 text #182230
+										58 container
+											59 text Headline Inter Aa
+										60 button Primary
+										61 button Secondary
+										62 button Inverted
+										63 button Outlined
+										64 text search Search
+										65 container
+											66 text Body Inter Aa
+										67 text home search person
+										68 container
+											69 text Label Inter Aa
+										70 text edit edit Label auto_fix_high category sell delete
+									71 container
+										72 text Generating Screen...
+										73 container
+											74 AXWebArea about:srcdoc
+												75 container
+													76 text verified TK 标题检查 内部运营版 演示数据 操作模块
+													77 link Description: spellcheck 单条检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													78 link Description: rule_folder 批量检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													79 link Description: manage_search 检查历史, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													80 link Description: library_books 规则与词库, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													81 text 美国 / 英语 / 健身器材 (示例环境) person 运营专员 ops_04 v2.4.1
+												82 container
+													83 text 工作台 / 标题检查 policy 当前规则集: 跨境合规 演示 v1 演示数据
+													84 link Description: menu_book 操作指引, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													85 button chat_bubble_outline 问题反馈
+														86 text chat_bubble_outline
+														87 text 问题反馈
+													88 button 通知
+														89 text notifications
+													90 text person
+												91 container
+													92 heading 批量检测, Value: 1
+														93 text 批量检测
+													94 text 演示数据 BATCH-20250518-US 支持导入 CSV/XLSX 进行批量规则筛查，单次上限 100 条 / 5MB。
+													95 link Description: spellcheck 单条检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													96 link Description: rule_folder 批量检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													97 text description 已导入批次：20250518_US_Fitness_Titles.xlsx 共 100 条 · 已全部完成 文件大小: 242.8 KB · 执行耗时: 3.42s ·
+													98 button 重新上传覆盖
+													99 button file_download 下载标准模板 (.xlsx / .csv)
+														100 text file_download
+														101 text 下载标准模板 (.xlsx / .csv)
+													102 button upload_file 上传新文件
+														103 text upload_file
+														104 text 上传新文件
+													105 button 全部结果 density_medium 100 条 检测结果仅覆盖当前规则
+														106 text 全部结果
+														107 text density_medium
+														108 text 100
+														109 text 条
+														110 text 检测结果仅覆盖当前规则
+													111 button 阻断问题 gpp_bad 9 条 需核验阻断项
+														112 text 阻断问题
+														113 text gpp_bad
+														114 text 9
+														115 text 条
+														116 text 需核验阻断项
+													117 button 待人工核验 assignment_late 18 条 涉嫌敏感词/背书
+														118 text 待人工核验
+														119 text assignment_late
+														120 text 18
+														121 text 条
+														122 text 涉嫌敏感词/背书
+													123 button 仅优化建议 lightbulb 27 条 长短度/结构改善
+														124 text 仅优化建议
+														125 text lightbulb
+														126 text 27
+														127 text 条
+														128 text 长短度/结构改善
+													129 button 未发现已覆盖问题 verified 40 条 未发现已覆盖问题
+														130 text 未发现已覆盖问题
+														131 text verified
+														132 text 40
+														133 text 条
+														134 text 未发现已覆盖问题
+													135 button 输入解析失败 code_off 4 条 编码/空行错误
+														136 text 输入解析失败
+														137 text code_off
+														138 text 4
+														139 text 条
+														140 text 编码/空行错误
+													141 button 执行异常重试 sync_problem 2 条 节点瞬时超时
+														142 text 执行异常重试
+														143 text sync_problem
+														144 text 2
+														145 text 条
+														146 text 节点瞬时超时
+													147 text search
+													148 text field (settable)
+													149 pop up button (collapsed, settable) Value: US_Shop_01 (核心旗舰店), Secondary Actions: Expand
+														150 menu
+															151 全部店铺 (US_Shop_All)
+															152 (selected) US_Shop_01 (核心旗舰店)
+															153 US_Shop_02 (运动专营店)
+															154 UK_Shop_Crossborder
+													155 text expand_more
+													156 pop up button (collapsed, settable) Value: 市场: US (英语), Secondary Actions: Expand
+														157 menu
+															158 (selected) 市场: US (英语)
+															159 市场: UK (英语)
+															160 市场: SG (东南亚)
+													161 text expand_more
+													162 pop up button (collapsed, settable) Value: 人工状态: 全部, Secondary Actions: Expand
+														163 menu
+															164 (selected) 人工状态: 全部
+															165 未复核 (72)
+															166 已采用草稿 (12)
+															167 已人工忽略 (10)
+															168 不可处理 (6)
+													169 text expand_more
+													170 button cloud_download 导出全部结果 (100)
+														171 text cloud_download
+														172 text 导出全部结果 (100)
+													173 button done_all 仅导出已采用 (12)
+														174 text done_all
+														175 text 仅导出已采用 (12)
+													176 button restart_alt 仅重试执行失败 (2)
+														177 text restart_alt
+														178 text 仅重试执行失败 (2)
+													179 text 2 已勾选 2 项待处理标题 （建议在批量确认前完成事实核验） verified_user 批量采用前须完成商品事实核验，避免无依据功效编造。
+													180 button magic_button 批量生成 2 条建议
+														181 text magic_button
+														182 text 批量生成 2 条建议
+													183 button 取消选择
+													184 table
+														185 row
+															186 cell
+																187 checkbox (settable, integer) 1
+															188 cell
+																189 text 源行号
+															190 cell
+																191 text 商品ID / 原标题
+															192 cell
+																193 text 市场
+															194 cell
+																195 text 原文检测诊断
+															196 cell
+																197 text 系统候选标题 / 推荐
+															198 cell
+																199 text 人工状态
+															200 cell
+																201 text 操作
+														202 row
+															203 cell
+																204 checkbox (settable, integer) 1
+															205 cell
+																206 text #001
+															207 cell
+																208 text SPU-88219 78 字符
+																209 container
+																	210 text MERACH Indoor Cycling Bike with LCD Display |  BEST SELLER
+															211 cell
+																212 text US/en
+															213 cell
+																214 text warning 待人工核验 含营销绝对词 (BEST SELLER)
+															215 cell
+																216 text MERACH Indoor Cycling Bike with LCD Display 已自动剔除无资质宣传词
+															217 cell
+																218 text 待复核
+															219 cell
+																220 button 复核详情
+																221 button 重检
+														222 row
+															223 cell
+																224 checkbox (settable, integer) 1
+															225 cell
+																226 text #002
+															227 cell
+																228 text SPU-99104 83 字符
+																229 container
+																	230 text YOSUDA Magnetic Rowing Machine with 16 Level Resistance  FDA APPROVED!!
+															231 cell
+																232 text US/en
+															233 cell
+																234 text block 阻断问题 未备案医疗资质 (FDA宣称)
+															235 cell
+																236 text hourglass_empty 待生成建议 (包含高危词)
+															237 cell
+																238 text 未复核
+															239 cell
+																240 button 复核详情
+																241 button 重检
+														242 row
+															243 cell
+																244 checkbox (settable, integer) 0
+															245 cell
+																246 text #003
+															247 cell
+																248 text SPU-77210 85 字符
+																249 text Adjustable Dumbbells Set 55lbs Fast Weight Adjust Free Weights for Home Gym
+															250 cell
+																251 text US/en
+															252 cell
+																253 text tips_and_updates 仅优化建议 堆砌次要词 (Fast Weight Adjust)
+															254 cell
+																255 text Adjustable Dumbbells Set 55lbs for Home Gym 已精简结构 (52字符)
+															256 cell
+																257 text 已采用草稿
+															258 cell
+																259 button 查看
+														260 row
+															261 cell
+																262 checkbox (settable, integer) 0
+															263 cell
+																264 text #004
+															265 cell
+																266 text SPU-33129 68 字符
+																267 text Foldable Treadmill with Incline Electric Running Machine for Home 2.5HP
+															268 cell
+																269 text US/en
+															270 cell
+																271 text check_circle 未发现覆盖问题
+															272 cell
+																273 text 原文可用 (无需修改)
+															274 cell
+																275 text 已确认原文
+															276 cell
+																277 button 查看
+														278 row
+															279 cell
+																280 checkbox (settable, integer) 0
+															281 cell
+																282 text #005
+															283 cell
+																284 text SPU-44021 70 字符
+																285 text Resistance Bands Set with Handles for Men Women Workout Bands 150LBS
+															286 cell
+																287 text US/en
+															288 cell
+																289 text warning 待人工核验 磅数承重需实测说明
+															290 cell
+																291 text pause_circle 待生成建议
+															292 cell
+																293 text 未复核
+															294 cell
+																295 button 复核详情
+														296 row
+															297 cell
+																298 checkbox (settable, integer) 0
+															299 cell
+																300 text #006
+															301 cell
+																302 text SPU-11002 69 字符
+																303 text Kettlebell Cast Iron Weight for Strength Training and Crossfit Workouts
+															304 cell
+																305 text US/en
+															306 cell
+																307 text check_circle 未发现覆盖问题
+															308 cell
+																309 text 原文可用 (无需修改)
+															310 cell
+																311 text 未复核
+															312 cell
+																313 button 查看
+														314 row
+															315 cell
+																316 checkbox (disabled, settable, integer) 0
+															317 cell
+																318 text #007
+															319 cell
+																320 text SPU-ERROR-1 解析失败
+																321 text 格式解析失败：文本包含不支持的字符编码
+															322 cell
+																323 text US/en
+															324 cell
+																325 text error_outline 输入失败 (格式错误)
+															326 cell
+																327 text —
+															328 cell
+																329 text 不可处理
+															330 cell
+																331 button 查看错误
+														332 row
+															333 cell
+																334 checkbox (disabled, settable, integer) 0
+															335 cell
+																336 text #008
+															337 cell
+																338 text SPU-NET-9 引擎响应超时
+																339 text 执行超时：检测服务暂未响应，请重试此行
+															340 cell
+																341 text US/en
+															342 cell
+																343 text sync_problem 执行失败 (可重试)
+															344 cell
+																345 text —
+															346 cell
+																347 text 待重试
+															348 cell
+																349 button 重试此行
+													350 text 显示第 1 至 8 条，共 100 条数据 · 正常完成 94 条 · 异常 6 条
+													351 button (disabled) chevron_left
+													352 button 1
+													353 button 2
+													354 button 3
+													355 text ...
+													356 button 13
+													357 button chevron_right
+													358 text info 演示说明： 检测结果仅覆盖当前规则，批量采用不等于店铺已发布。部分特殊类目仍须核验本地法规与商品资质。
+									359 container
+										360 text Generating Screen...
+										1022 container
+											1023 AXWebArea about:srcdoc
+												1024 container
+													1025 text verified TK 标题检查 内部运营版 演示数据 操作模块
+													1026 link Description: spellcheck 单条检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1027 link Description: rule_folder 批量检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1028 link Description: manage_search 检查历史, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1029 link Description: library_books 规则与词库, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1030 text 美国 / 英语 / 健身器材 (示例环境) person 运营专员 ops_04 v2.4.1
+												1031 container
+													1032 text 工作台 / 标题检查 policy 当前规则集: 跨境合规 2025-Q1 演示数据
+													1033 link Description: menu_book 操作指引, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1034 button chat_bubble_outline 问题反馈
+														1035 text chat_bubble_outline
+														1036 text 问题反馈
+													1037 button 通知
+														1038 text notifications
+													1039 text person
+												1040 container
+													1041 link Description: arrow_back 返回批次列表, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1042 text / 检测工作台 /
+													1043 link Description: 批量检测批次 #20250518_US, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1044 text / 候选复核 #001 (SPU-88219) 演示数据 lock_clock 受控审查模式
+													1045 heading 建议复核 - 候选标题复核与事实确认, Value: 1
+														1046 text 建议复核 - 候选标题复核与事实确认
+													1047 text 针对算法生成的去冗余提议草稿进行人工事实核验。严格执行事实确认门禁，规避虚构属性与跨平台合规风险。 检查版本号: REV-20250518-A policy 人工采用受控保护激活 强校验门禁 当前存在 
+													1048 text 3
+													1049 text  项未核实事实。根据合规审计规范，必须在下方清单逐项完成真实性事实背书后方可解锁采用操作。采用状态仅记录运营内部决定，系统绝不会自动向外部店铺直接发布。 history_edu
+													1050 heading 原文诊断快照, Value: 2
+														1051 text 原文诊断快照
+													1052 text 只读归档 待人工核验 (3个关注项) 原始入库标题 58 字符 MERACH
+													1053 text Indoor Cycling Bike with LCD Display
+													1054 text |
+													1055 text BEST SELLER
+													1056 text 阻断待验词: 1 格式排版建议: 2 检出问题详情明细 待人工核验 "BEST SELLER" TK-TIT-AUTH02 涉嫌使用绝对化或未经平台官方认可的榜单承诺术语。缺少官方权威销售凭证或品类榜单排位证明，极易引发平台抽检下架或客诉欺诈风险。 gavel 合规要求：若无合规佐证，必须剔除该宣传词汇 仅优化建议 连续空格 "  " TK-FMT-SP01 品牌名与主体之间存在双重连续半角空格，影响搜索引擎权重并浪费有限字符展示。建议收拢为单个半角空格。 仅优化建议 竖线分隔符 "|" TK-FMT-SYM04 移动端屏幕展示中竖线易造成断行混淆或误读为字母，建议调整为自然语法或介词间隔。 verified_user 规则版本: 演示 v1 原文历史快照归档 auto_fix_high
+													1057 heading 优化候选标题 (草稿编辑), Value: 2
+														1058 text 优化候选标题 (草稿编辑)
+													1059 text check_circle 未发现已覆盖问题 草稿内容 (支持微调输入并即时联动核验) 编辑后实时触发复查
+													1060 text entry area (settable) 草稿内容 (支持微调输入并即时联动核验), Value: MERACH Indoor Cycling Bike with LCD Display, ID: candidate-textarea
+													1061 text 算法净化痕迹: - | BEST SELLER - 多余空格
+													1062 text 43
+													1063 text  字符 task_alt 最新复检：未发现已覆盖问题 已对草稿执行 11 项规则复检 提示：检测结果仅覆盖当前规则，仍需逐一完成下方「商品事实核验」，杜绝无依据商品属性虚标。 info 检测结果仅覆盖当前规则 0 阻断项
+													1064 button refresh 重新检测候选, ID: btn-recheck
+														1065 text refresh
+														1066 text 重新检测候选
+													1067 button content_copy 复制草稿文本, ID: btn-copy-draft
+														1068 text content_copy
+														1069 text 复制草稿文本
+													1070 button restart_alt 重置为原文, ID: btn-reset-original
+														1071 text restart_alt
+														1072 text 重置为原文
+													1073 text fact_check
+													1074 heading 商品事实核验清单, Value: 2
+														1075 text 商品事实核验清单
+													1076 text 合规防虚构门禁 必须逐项核对并手动背书标题中所声称的品牌、品类与物理配置，以排除虚假陈述隐患。
+													1077 container fact-counter-badge
+														1078 text pending 未确认 
+														1079 text 3
+														1080 text  项
+													1081 checkbox (settable, integer) 0
+													1082 text 事实项 01 · 品牌事实 (Brand) "MERACH" 位置：标题第 1 词位 确认为真实有效品牌且店铺已获得合法销售授权，无商标侵权、拼写仿冒或混淆判定。 verified 依据核验源：系统匹配品牌库已备案记录 (MERACH Fitness Co. / TM-US-991204)
+													1083 button visibility 查看凭证
+														1084 text visibility
+														1085 text 查看凭证
+													1086 checkbox (settable, integer) 0
+													1087 text 事实项 02 · 产品类型 (Product Type) "Indoor Cycling Bike" (室内动感单车) 位置：主体品类词 确认为商品核心主体品类名称，未夸大功能、未堆砌无关品类词（如 Elliptical / Treadmill 等）。 category 依据核验源：类目属性映射标准 > Sporting Goods > Cardio Equipment > Exercise Bikes
+													1088 button visibility 查看凭证
+														1089 text visibility
+														1090 text 查看凭证
+													1091 checkbox (settable, integer) 0
+													1092 text 事实项 03 · 核心配置特征 (Key Feature) "with LCD Display" (配备LCD显示屏) 位置：规格附加上下文 实物出厂包装配置中确实标配数字 LCD 监控仪表（可显示速度/时间/卡路里），非手机支架简易款或需另购配件。 devices 依据核验源：商品详情主图第 3 张及工业 BOM 参数表第 4 项 (LCD Console 3.5-inch)
+													1093 button visibility 查看凭证
+														1094 text visibility
+														1095 text 查看凭证
+													1096 text checklist 合规承诺：全部 3 项勾选核验完成后，采用操作主按钮方可解锁激活。
+													1097 button done_all 运营快速全选确认 (合规担保), ID: btn-quick-check-all
+														1098 text done_all
+														1099 text 运营快速全选确认 (合规担保)
+													1100 text shield_lock
+													1101 text 采用状态受控：未确认 3 项事实核验
+													1102 text 原文历史结论不受影响
+													1103 text 请勾选上方全部事实核验项以解除锁定。
+													1104 button 仅保留原文 (忽略所有建议), Help: 维持原始标题，不对当前候选做任何采纳变更, ID: btn-keep-original
+													1105 button 复制草稿, Help: 仅复制文本到系统剪贴板，不代表外部店铺发布, ID: btn-copy-dock
+													1106 button (disabled) lock 采用此标题 (需先确认事实), Help: 请先确认上方全部商品事实核验项 (尚余 3 项), ID: btn-adopt-candidate
+														1107 text lock
+														1108 text 采用此标题 (需先确认事实)
+													1109 text info 演示数据：采用结果仅更新内部复核状态，不等于店铺已发布。
+									449 container
+										450 text Generating Screen...
+										1110 container
+											1111 AXWebArea about:srcdoc
+												1112 container
+													1113 text verified TK 标题检查 内部运营版 演示数据 操作模块
+													1114 link Description: spellcheck 单条检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1115 link Description: rule_folder 批量检测, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1116 link Description: manage_search 检查历史, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1117 link Description: library_books 规则与词库, Value: app-companion-430619.appspot.com/projects/2022685832470574170?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+													1118 text 美国 / 英语 / 健身器材 (示例环境) person 运营人员 演示角色 演示数据
+												1119 container
+													1120 text 工作台 / 标题检查 policy 当前规则集: 跨境合规 2025-Q1 演示数据
+													1121 link Description: menu_book 操作指引, Value: …
+													1122 button chat_bubble_outline 问题反馈
+														1123 text chat_bubble_outline
+														1124 text 问题反馈
+													1125 button 通知
+														1126 text notifications
+													1127 text person
+												1128 container
+													1129 heading 单条检测工作台, Value: 1
+														1130 text 单条检测工作台
+													1131 text 演示数据 检测就绪态 检测结果仅覆盖当前规则，结论仅供运营参考。
+													1132 button spellcheck 单条检测
+														1133 text spellcheck
+														1134 text 单条检测
+													1135 link Description: rule_folder 批量检测, Value: …
+													1136 text input 录入与环境上下文 ENV-US-FIT 目标站点 / 市场
+													1137 pop up button (collapsed, settable) Value: 美国 (US) [示例], Secondary Actions: Expand
+														1138 menu
+															1139 (selected) 美国 (US) [示例]
+															1140 英国 (UK) [示例]
+															1141 德国 (DE) [示例]
+													1142 text expand_more 语言规范
+													1143 pop up button (collapsed, settable) Value: 英语 (en-US), Secondary Actions: Expand
+														1144 menu
+															1145 (selected) 英语 (en-US)
+															1146 西语 (es-US)
+													1147 text expand_more 商品发布品类 (Category)
+													1148 pop up button (collapsed, settable) Value: 运动与户外 > 健身器材 (Fitness Equipment), Secondary Actions: Expand
+														1149 menu
+															1150 (selected) 运动与户外 > 健身器材 (Fitness Equipment)
+															1151 运动与户外 > 瑜伽与拉伸
+															1152 家居百货 > 室内收纳
+													1153 text category info 美国/英语/健身器材仅作为示例筛选，不代表生产范围已确定。诊断规则已映射跨境电商类目通用合规集。 商品原标题 * 70 字符
+													1154 text entry area (settable) 商品原标题 *, Value: MERACH  Indoor Cycling Bike with LCD Display | BEST SELLER, ID: title-input
+													1155 button select_all 全选
+														1156 text select_all
+														1157 text 全选
+													1158 text verified_user 商品事实清单 已填录 3 项事实 tune 品牌名称 (Brand) MERACH
+													1159 text check_circle
+													1160 text 核心品类 (Product Type) 室内健身车 (Indoor Cycling Bike) 硬件规格 (Key Feature) 配备LCD屏 (with LCD Display) lightbulb 均为虚构演示资料，用于事实核验与虚假宣称排除。 商品SPU / 货号 (选填) OPTIONAL
+													1161 text field (settable) FT-MC-882
+													1162 button restart_alt 清空内容
+														1163 text restart_alt
+														1164 text 清空内容
+													1165 button play_arrow 重新扫描
+														1166 text play_arrow
+														1167 text 重新扫描
+													1168 text warning 待人工核验 检测完成 (未发现已覆盖阻断项) 检测结果仅覆盖当前规则 · 演示 v1 阻断违规 0 项 help_outline 待人工核验 1 项 tune 仅优化建议 2 条 rule 规则检查 11 项 标题命中标记分析 黄色=待核验修饰词 / 蓝色=格式间距瑕疵 MERACH
+													1169 text Indoor Cycling Bike with LCD Display
+													1170 text  | 
+													1171 text BEST SELLER
+													1172 text format_image_left 品牌词  MERACH  全大写经词库比对为合法品牌名，已豁免且未触发误报。
+													1173 heading 详细诊断条目 (共 3 处命中), Value: 2
+														1174 text 详细诊断条目 (共 3 处命中)
+													1175 text 按规则风险权重降序 待人工核验 营销修饰表述  "BEST SELLER" 规则: 演示-MKT-01
+													1176 text 问题原因：
+													1177 text 标题包含热销/畅销等相对化修饰词。若无官方平台销量凭证或权威第三方评级资质，跨境店铺可能面临被抽检下架或流量降权风险。 来源:  待核验 (演示 v1) ·
+													1178 link Description: 《跨境商家内容规范 4.2 夸大及无法举证的营销词限制》 open_in_new, Value: …
+													1179 button 标记为已核实事实
+													1180 button 从标题中移除
+													1181 text 仅优化建议 格式规范：存在连续多余空格 RULE: TK-FMT-002
+													1182 text 问题原因：
+													1183 text "MERACH Indoor" 之间存在连续 2 个空格符，影响前端移动端页面排版展示连贯性，并可能造成部分抓取搜索引擎的分词冗余。 来源:  待核验 (演示 v1) ·
+													1184 link Description: 《标题文本格式推荐规范》 open_in_new, Value: …
+													1185 text auto_fix_high 已计入自动清洗候选 仅优化建议 格式规范：非规范分隔符 "|" (管道符) RULE: TK-FMT-009
+													1186 text 问题原因：
+													1187 text 建议使用自然空格或常规逗号分隔产品属性及卖点从句。部分终端与APP通知栏可能将管道符转义或误识别为截断符号。 来源:  待核验 (演示 v1) ·
+													1188 link Description: 《商品标题分隔符标准指南》 open_in_new, Value: …
+													1189 text auto_fix_high 已计入自动清洗候选 smart_toy 优化建议候选 (格式草稿) 已合规清洗
+													1190 button refresh 生成新建议
+														1191 text refresh
+														1192 text 生成新建议
+													1193 text 候选标题 01 46 字符
+													1194 text MERACH Indoor Cycling Bike with LCD Display
+													1195 text check 修改要点说明与事实守护 已自动移除无凭证营销词 
+													1196 text "BEST SELLER"
+													1197 text ，并规范连续空格与管道符。已对齐录入事实清单（MERACH / 室内健身车 / 配备LCD屏），未编造认证、功效或未证实的额外事实。 info 复制或采用不等于店铺已发布
+													1198 button compare_arrows 进入复核对比
+														1199 text compare_arrows
+														1200 text 进入复核对比
+													1201 button content_copy 复制候选文本
+														1202 text content_copy
+														1203 text 复制候选文本
+													1204 text info
+													1205 text 演示数据说明：检测结果仅覆盖当前规则集，结论仅供运营参考，复制或采用不等于店铺已发布。
+													1206 text 演示数据 规则版本: 演示 v1
+									548 container
+										549 text Generating Screen...
+										1207 container
+											1208 AXWebArea about:srcdoc
+												1209 container
+													1210 text verified TK 标题检查 内部运营版 演示数据 操作模块
+													1211 link Description: spellcheck 单条检测, Value: …
+													1212 link Description: rule_folder 批量检测, Value: …
+													1213 link Description: manage_search 检查历史, Value: …
+													1214 link Description: library_books 规则与词库, Value: …
+													1215 text 美国 / 英语 / 健身器材 (示例环境) person 运营专员 ops_04 v2.4.1
+												1216 container
+													1217 text 工作台 / 标题检查 policy 当前规则集: 演示 v1 演示数据
+													1218 link Description: menu_book 操作指引, Value: …
+													1219 button chat_bubble_outline 问题反馈
+														1220 text chat_bubble_outline
+														1221 text 问题反馈
+													1222 button 通知
+														1223 text notifications
+													1224 text person
+												1225 container
+													1226 heading 检查历史, Value: 1
+														1227 text 检查历史
+													1228 text 演示数据 追踪所有单条及批量标题检查记录、规则版本快照与人工复核决策审计日志。无发布与流量数据。
+													1229 button file_download 导出审计日志
+														1230 text file_download
+														1231 text 导出审计日志
+													1232 button refresh 刷新记录
+														1233 text refresh
+														1234 text 刷新记录
+													1235 text search
+													1236 text field (settable) MERACH
+													1237 text calendar_today 近 7 天 (2025-05-12 ~ 2025-05-18)
+													1238 pop up button (collapsed, settable) Value: 美国 (US) - 英语, Secondary Actions: Expand
+														1239 menu
+															1240 (selected) 美国 (US) - 英语
+															1241 全部市场
+															1242 英国 (UK) - 英语
+													1243 text expand_more
+													1244 pop up button (collapsed, settable) Value: US_Fitness_Store_A, Secondary Actions: Expand
+														1245 menu
+															1246 (selected) US_Fitness_Store_A
+															1247 全部店铺
+															1248 US_Outdoor_Store_B
+													1249 text expand_more tune 筛选维度:
+													1250 pop up button (collapsed, settable) Value: 待人工核验, Secondary Actions: Expand
+														1251 menu
+															1252 全部结论
+															1253 (selected) 待人工核验
+															1254 阻断问题
+															1255 仅优化建议
+															1256 未发现已覆盖问题
+													1257 text arrow_drop_down
+													1258 pop up button (collapsed, settable) Value: 待复核, Secondary Actions: Expand
+														1259 menu
+															1260 全部人工状态
+															1261 (selected) 待复核
+															1262 已采用候选
+															1263 保留原文
+															1264 已忽略
+													1265 text arrow_drop_down 活动过滤项: 2
+													1266 button close
+													1267 button 重置
+													1268 button filter_alt 应用筛选
+														1269 text filter_alt
+														1270 text 应用筛选
+													1271 text 历史检测清单 共 142 条 排序方式: 最近检测时间 ↓
+													1272 table
+														1273 row
+															1274 cell
+																1275 text 检查时间
+															1276 cell
+																1277 text 原标题 / 商品ID
+															1278 cell
+																1279 text 规则版本
+															1280 cell
+																1281 text 原文结论
+															1282 cell
+																1283 text 人工状态
+															1284 cell
+																1285 text 操作人
+															1286 cell
+																1287 text 操作
+														1288 row
+															1289 cell
+																1290 text 10:24:02 2025-05-18
+															1291 cell
+																1292 text SPU-88219 室内单车类目
+																1293 container
+																	1294 text MERACH Indoor Cycling Bike with LCD Display |  BEST SELLER
+															1295 cell
+																1296 text 演示 v1
+															1297 cell
+																1298 text 待人工核验
+															1299 cell
+																1300 text 待复核
+															1301 cell
+																1302 text ops_04 (王运营)
+															1303 cell
+																1304 text 已选 chevron_right
+														1305 row
+															1306 cell
+																1307 text 09:41:18 2025-05-18
+															1308 cell
+																1309 text SPU-99104 划船机类目
+																1310 container
+																	1311 text YOSUDA Magnetic Rowing Machine with 16 Level Resistance  FDA APPROVED!!
+															1312 cell
+																1313 text 演示 v1
+															1314 cell
+																1315 text 阻断问题
+															1316 cell
+																1317 text 已阻断废弃
+															1318 cell
+																1319 text ops_02 (李风控)
+															1320 cell
+																1321 button 详情 chevron_right
+																	1322 text 详情
+																	1323 text chevron_right
+														1324 row
+															1325 cell
+																1326 text 16:15:40 2025-05-17
+															1327 cell
+																1328 text SPU-77210 哑铃器具类目
+																1329 text Adjustable Dumbbells Set 55lbs Fast Weight Adjust Free Weights for Home Gym
+															1330 cell
+																1331 text 演示 v1
+															1332 cell
+																1333 text 仅优化建议
+															1334 cell
+																1335 text 已采用草稿
+															1336 cell
+																1337 text ops_04 (王运营)
+															1338 cell
+																1339 button 详情 chevron_right
+																	1340 text 详情
+																	1341 text chevron_right
+														1342 row
+															1343 cell
+																1344 text 14:02:11 2025-05-17
+															1345 cell
+																1346 text SPU-33129 跑步机类目
+																1347 text Foldable Treadmill with Incline Electric Running Machine for Home 2.5HP
+															1348 cell
+																1349 text 演示 v1
+															1350 cell
+																1351 text 未发现已覆盖问题
+															1352 cell
+																1353 text 确认原文
+															1354 cell
+																1355 text ops_01 (张品类)
+															1356 cell
+																1357 button 详情 chevron_right
+																	1358 text 详情
+																	1359 text chevron_right
+														1360 row
+															1361 cell
+																1362 text 11:30:52 2025-05-16
+															1363 cell
+																1364 text SPU-66512 俯卧撑板类目
+																1365 text Push Up Board Multi-Function 14-in-1 Foldable Workout Bar for Chest Muscle
+															1366 cell
+																1367 text 演示 v1
+															1368 cell
+																1369 text 未发现已覆盖问题
+															1370 cell
+																1371 text 确认原文
+															1372 cell
+																1373 text ops_03 (赵专员)
+															1374 cell
+																1375 button 详情 chevron_right
+																	1376 text 详情
+																	1377 text chevron_right
+													1378 text 第 1 页 / 共 18 页 (142 条记录)
+													1379 button (disabled) 上一页
+													1380 button 1
+													1381 button 2
+													1382 button 3
+													1383 text ...
+													1384 button 18
+													1385 button 下一页
+													1386 heading 检查快照与流转审计, Value: 2
+														1387 text 检查快照与流转审计
+													1388 text verified_user #SPU-88219 · 记录编号 ARC-20250518-8821
+													1389 button open_in_full, Help: 全屏查看
+													1390 button close, Help: 收起抽屉
+													1391 text 输入环境快照 单条工作台录入 目标市场与语言 美国 (US) / en-US 类目 健身器材 (Fitness Equipment) 商品事实底稿 (3项已登记) 品牌: MERACH 品名: 室内健身车 核心参数: 配备LCD屏 规则检查结论 (检测结果仅覆盖当前规则) 演示 v1 report_problem 1 项待核验项 包含未经权威机构认证的营销修饰词 
+													1392 text BEST SELLER
+													1393 text tips_and_updates 2 条书写优化建议 包含连续冗余双空格、使用了不推荐的分隔符字符 
+													1394 text |
+													1395 text 建议优化草稿 比对差异
+													1396 text MERACH Indoor Cycling Bike with LCD Display
+													1397 text auto_fix_high 生成逻辑: 剔除无依据修饰词，格式清洗并重组品牌+核心词 流转审计轨迹 (AUDIT TRAIL) 已存证 4/5 节点
+													1398 container
+														1399 text check 系统接收输入快照 10:24:02 原始标题与录入环境参数封存，操作人:  ops_04 (王运营) check 规则集检查完成 10:24:05 执行当前规则集检测，结论： [待复核] check 生成建议优化草稿 10:24:08 基于商品事实底稿剔除冗余词，完成格式清洗 pending 等待人工事实核验 10:25:00 · 当前 当前指派责任人: 王运营；等待确认是否具备销售证明文书 radio_button_unchecked 人工采纳或归档放行 未开始 需要责任人完成核验后方可归档审计记录
+													1400 button open_in_new 前往建议复核
+														1401 text open_in_new
+														1402 text 前往建议复核
+													1403 button content_copy, Help: 复制原始快照文本
+									747 container
+										748 text Generating Screen...
+										1404 container
+											1405 AXWebArea about:srcdoc
+												1406 container
+													1407 text verified TK 标题检查 内部运营版 演示数据 操作模块
+													1408 link Description: spellcheck 单条检测, Value: …
+													1409 link Description: rule_folder 批量检测, Value: …
+													1410 link Description: manage_search 检查历史, Value: …
+													1411 link Description: library_books 规则与词库, Value: …
+													1412 text 美国 / 英语 / 健身器材 (示例环境) person 运营专员 ops_04 v2.4.1
+												1413 container
+													1414 text 工作台 / 标题检查 policy 当前规则集: 跨境合规 2025-Q1 演示数据
+													1415 link Description: menu_book 操作指引, Value: …
+													1416 button chat_bubble_outline 问题反馈
+														1417 text chat_bubble_outline
+														1418 text 问题反馈
+													1419 button 通知
+														1420 text notifications
+													1421 text person
+												1422 container
+													1423 heading 规则与词库, Value: 1
+														1424 text 规则与词库
+													1425 text 演示数据 shield_person 当前视角: 运营专员 ops_04 (只读) 维护标题合规规则集、11 项检查目录及品类专用词库。普通运营人员只读，规则维护人员可发起修订申请。
+													1426 button 检查规则集 (11 项目录)
+													1427 button 基础与品类词库 (Brands & Terminology) 186 词项
+														1428 text 基础与品类词库 (Brands & Terminology)
+														1429 text 186 词项
+													1430 text 最后更新: 2025-03-01 09:30 CST verified_user 当前启用基线规则集 跨境电商商品标题合规标准 (US-Q1-v2.1) 版本号: 演示 v1 / 生效日期: 2025-03-01 / 目标市场: 美国站 (en-US) / 运动户外
+													1431 button edit_document 申请编辑草稿, Help: 需要合规专家或管理员权限
+														1432 text edit_document
+														1433 text 申请编辑草稿
+													1434 button download, Help: 规则集导出
+													1435 text 11 项检查目录 已就绪 11/11 4 强制阻断 1 待核验 6 仅建议 gavel 平台要求 (Platform Mandates) — 强制合规项 4 规则 #01 营销修饰词核验 (Marketing Claims) 阻断 / 待核验 拦截 BEST SELLER, TOP 1, FREE SHIPPING 等无凭证宣传及绝对化修饰词汇。 TK-TIT-001 • 词库联动: 营销敏感词汇表 (64项) #02 违禁词与未备案认证资质 (Prohibited & Certifications) 阻断 拦截 FDA APPROVED, MEDICAL GRADE 等无店铺资质备案认证声明与管制词汇。 TK-TIT-002 • 词库联动: 法定管制宣称表 (112项) #03 知识产权与非授权品牌 (Brand Infringement) 阻断 拦截误用第三方注册商标、竞品山寨同音变形词及未受邀商品属性映射。 TK-TIT-003 • 词库联动: 全球保护品牌白名单与侵权池 #04 核心品类错置 (Category Mismatch) 阻断 检查商品核心主体词是否与当前发布类目叶子节点严格吻合，防止挂羊头卖狗肉。 TK-TIT-004 • 类目字典: 运动健身标准叶子节点 (Level 4) recommend 官方建议 (Official Recommendations) — 体验与推荐规范 4 规则
+													1436 text 当前查看
+													1437 text #05 标题长度阈值 (Title Length) 待核验
+													1438 text 平台未设定绝对固定上限，当前仅统计并展示输入文本的实际字符数，具体类目推荐长度待进一步核验。
+													1439 text TK-TIT-005 • 状态: 长度阈值待核验，当前仅展示字符数 #06 全大写字母滥用 (All-Caps Abuse) 仅建议 规范整句全大写滥用，内置品牌白名单允许合法注册全大写品牌词通过（如 MERACH）。 TK-TIT-006 • 支持品牌豁免通道 #07 非法标点与分隔符 (Symbols & Delimiters) 仅建议 限制管道符 |、下划线 _ 及多个连续叹号感叹等影响阅读体验的符号。 TK-TIT-007 • 符号规则: 允许标准逗号与破折号 #08 连续多余空白符 (Excessive Whitespace) 仅建议 拦截连续双空格、首尾悬空空格及中文全角占位符号，确保字符紧凑。 TK-TIT-008 • 自动修正器已接入 tune 内部经验 (Internal Best Practices) — 运营转化与搜索规范 3 规则 #09 关键属性完整性 (Core Attributes) 仅建议 检查是否包含「品牌 + 产品类型 + 核心特征」的基础结构框架，确保转化基础。 TK-TIT-009 • 属性完整度模型: 三段式结构 #10 重复堆砌词拦截 (Keyword Stuffing) 仅建议 拦截同一词根或同义核心词在单标题中重复出现 ≥3 次，避免被判定降权。 TK-TIT-010 • 词频阈值: 阈值上限 = 2次 #11 违规联系方式与引流词 (Contact & Off-site Links) 阻断 拦截包含 www, .com, WhatsApp, IG: 等任何引导站外交易、私信联系的内容。 TK-TIT-011 • 站外特征匹配: 包含顶级域正则与通讯软件标识 #Rule-05 待核验
+													1440 heading 标题长度阈值 (Title Length), Value: 2
+														1441 text 标题长度阈值 (Title Length)
+													1442 text 适用范围: 跨境美国站 (en-US) / 运动户外类目 • 来源待核验 规则释义与设计目标
+													1443 container
+														1444 text 标题既需包含必要搜索事实，又需在移动端及推荐卡片上有效呈现。本系统 不采用“超过 80 字符必违规”的单一指标 ，而是根据目标端展示安全区与类目事实密度进行弹性区间综合评估。
+													1445 text 判定机制与字符统计 长度阈值待核验，当前仅展示字符数 straighten 当前字符检测逻辑 仅统计 Char Count
+													1446 text 平台目前未公开固定的长度阻断界限。在合规诊断与检测中，仅如实统计并回显标题的总字符数及单词数，供运营人员参考，不产生强制阻断判定。
+													1447 text help_outline 具体类目建议长度与权重影响尚待进一步官方规范核验。 flaky 例外与白名单机制 (Whitelist & Exceptions) 规则释义与说明
+													1448 text 平台未设定绝对固定上限，当前仅统计并展示输入文本的实际字符数，具体类目推荐长度待进一步核验。系统不强制执行任何未经核实的硬性截断标准。
+													1449 text 例外 2: 特殊规格型号组合 CASE-EX-02
+													1450 container
+														1451 text 包含连字符与单位的型号串（如  FT-MC-882 、 150LBS ）不受非法标点及纯英文字母混合策略拦截。
+													1452 text 变更审计记录 (AUDIT LOG) 演示 v1 长度阈值设为待核验：去除固定字符数与区间限制，仅提供文本实际字符数显示。 menu_book 品类专用词库预览 (健身器材 - Fitness & Cardio)
+													1453 button 进入完整词库维护界面 chevron_right
+														1454 text 进入完整词库维护界面
+														1455 text chevron_right
+													1456 text 备案品牌白名单 42 个 MERACH, YOSUDA, BOWFLEX, SCHWINN, NORDICTRACK... 已受商标权属授权书索引 标准品类核心词 128 个 Exercise Bike, Rowing Machine, Dumbbell, Treadmill, Kettlebell... 对应平台 Level 3/4 标准类目叶子节点 规范单位与度量缩写 16 个 lbs, kg, HP, inch, cm, levels, dB, mm... 严格禁止全角单位与未知自定义连写 info 词库数据仅包含合规事实与品牌资质，不包含任何外部伪造流量热度指标。 最后校验同步: 2025-03-01 02:00:00 lock 内部运营规则字典，规则改动需合规部门双人复核并审批发布。
+													1457 link Description: 规则修订准则, Value: …
+													1458 link Description: 合规审计接口 API, Value: …
+									804 container
+										805 text Prototype : PC-02 批量检测
+										806 container
+											807 container
+												808 image
+												809 text Prototype Double click to open
+									881 container
+										882 text Tactical Engineer
+										883 text Primary
+										884 text #F7A501
+										885 text Secondary
+										886 text #23251D
+										887 text Tertiary
+										888 text #2563EB
+										889 text Neutral
+										890 text #4D4F46
+										891 container
+											892 text Headline IBM Plex Sans Aa
+										893 button Primary
+										894 button Secondary
+										895 button Inverted
+										896 button Outlined
+										897 text search Search
+										898 container
+											899 text Body IBM Plex Sans Aa
+										900 text home search person
+										901 container
+											902 text Label JetBrains Mono Aa
+										903 text edit edit Label auto_fix_high category sell delete
+									935 container
+										936 text Generating Screen...
+										1459 container
+											1460 AXWebArea about:srcdoc
+												1461 container
+													1462 text TK 标题检查 B 方案 B | 演示数据
+													1463 link Description: terminal 检测工作台, Value: …
+													1464 link Description: history 检查历史, Value: …
+													1465 link Description: menu_book 规则词库, Value: …
+													1466 text 运营专员 只读模式 规则引擎 演示 v1
+												1467 container
+													1468 text 工作台 / 标题检查 演示数据 规则库: 演示 v1
+													1469 link Description: help_outline 帮助, Value: …
+													1470 text person
+												1471 container
+													1472 heading 批量检测, Value: 1
+														1473 text 批量检测
+													1474 text 演示数据 | 针对 TikTok Shop 标题合规性及平台规则的批量诊断流水线 引擎状态:  就绪 (v2.4-prod)
+													1475 link Description: edit_note 单条检测, Value: …
+													1476 link Description: dynamic_feed 批量检测, Value: …
+													1477 link Description: tune 检测模板设定, Value: …
+													1478 text table_chart 已导入批次: 20250518_US_Fitness_Titles.xlsx 共 100 条 导入时间: 10:42:19 最多支持 100 条 / 5MB
+													1479 button upload_file 重新上传覆盖
+														1480 text upload_file
+														1481 text 重新上传覆盖
+													1482 button download 下载模板 (.xlsx / .csv)
+														1483 text download
+														1484 text 下载模板 (.xlsx / .csv)
+													1485 text 全部条目 100 100% 阻断问题 9 9.0% 待核验 18 18.0% 仅建议 27 27.0% 未发现已覆盖问题 40 40.0% 输入失败 4 4.0% 执行失败 2 可重试 search
+													1486 text field (settable)
+													1487 text ⌘K
+													1488 text 店铺: US_Shop_01 expand_more 状态: 全部状态 (100) arrow_drop_down 市场: US (英语) arrow_drop_down
+													1489 button refresh 重试执行失败 (2条)
+														1490 text refresh
+														1491 text 重试执行失败 (2条)
+													1492 button file_download 导出全部结果 (100)
+														1493 text file_download
+														1494 text 导出全部结果 (100)
+													1495 container selection-banner
+														1496 text 已勾选  2  项待处理标题 | 包含 1 个阻断问题、1 个待核验条目
+														1497 button auto_fix_high 批量生成 2 条建议
+															1498 text auto_fix_high
+															1499 text 批量生成 2 条建议
+														1500 button 标记为已复核
+														1501 button 取消选择
+													1502 table
+														1503 row
+															1504 cell
+																1505 checkbox (settable, integer) 1
+															1506 cell
+																1507 text 源行号
+															1508 cell
+																1509 text 原标题 / 商品ID
+															1510 cell
+																1511 text 市场
+															1512 cell
+																1513 text 原文诊断
+															1514 cell
+																1515 text 候选建议
+															1516 cell
+																1517 text 人工状态
+															1518 cell
+																1519 text 操作
+														1520 row
+															1521 cell
+																1522 checkbox (settable, integer) 1
+															1523 cell
+																1524 text #001
+															1525 cell
+																1526 text SPU-88219 (58字符) BEST SELLER
+																1527 container
+																	1528 text MERACH Indoor Cycling Bike with LCD Display  BEST SELLER
+															1529 cell
+																1530 text US/en
+															1531 cell
+																1532 text 待人工核验
+																1533 text 含绝对化营销词:
+																1534 text BEST SELLER
+															1535 cell
+																1536 text MERACH Indoor Cycling Bike with LCD Display 字符: 43 (-15) 已剔除侵权营销词
+															1537 cell
+																1538 text 待复核
+															1539 cell
+																1540 button 建议复核
+																1541 button refresh, Help: 重检
+														1542 row
+															1543 cell
+																1544 checkbox (settable, integer) 1
+															1545 cell
+																1546 text #002
+															1547 cell
+																1548 text SPU-99104 (64字符)
+																1549 container
+																	1550 text YOSUDA Magnetic Rowing Machine 16 Level Resistance  FDA APPROVED!!
+															1551 cell
+																1552 text US/en
+															1553 cell
+																1554 text 阻断问题
+																1555 text 未备案医疗资质 (触发 FDA 强合规审查)
+															1556 cell
+																1557 text 待生成建议 (包含高危词)
+																1558 button bolt 生成
+																	1559 text bolt
+																	1560 text 生成
+															1561 cell
+																1562 text 未复核
+															1563 cell
+																1564 button 建议复核
+																1565 button refresh, Help: 重检
+														1566 row
+															1567 cell
+																1568 checkbox (settable, integer) 0
+															1569 cell
+																1570 text #003
+															1571 cell
+																1572 text SPU-77210 (54字符)
+																1573 text Adjustable Dumbbells Set 55lbs Fast Weight Adjust Free Weights
+															1574 cell
+																1575 text US/en
+															1576 cell
+																1577 text 仅优化建议
+																1578 text 堆砌次要词 (Fast Weight Adjust)
+															1579 cell
+																1580 text Adjustable Dumbbells Set 55lbs (精简)
+															1581 cell
+																1582 text draw 已采用草稿
+															1583 cell
+																1584 button 查看
+														1585 row
+															1586 cell
+																1587 checkbox (settable, integer) 0
+															1588 cell
+																1589 text #004
+															1590 cell
+																1591 text SPU-33129 (48字符)
+																1592 text Foldable Treadmill with Incline Electric Running Machine
+															1593 cell
+																1594 text US/en
+															1595 cell
+																1596 text 未发现已覆盖问题
+															1597 cell
+																1598 text 原文可用 (无需修改)
+															1599 cell
+																1600 text check_circle 已确认原文
+															1601 cell
+																1602 button 查看
+														1603 row
+															1604 cell
+																1605 checkbox (settable, integer) 0
+															1606 cell
+																1607 text #005
+															1608 cell
+																1609 text SPU-44021 (52字符)
+																1610 text Resistance Bands Set with Handles for Men Women 150LBS
+															1611 cell
+																1612 text US/en
+															1613 cell
+																1614 text 待人工核验
+																1615 text 磅数承重需核实说明书参数
+															1616 cell
+																1617 text 待生成建议
+															1618 cell
+																1619 text 未复核
+															1620 cell
+																1621 button 建议复核
+														1622 row
+															1623 cell
+																1624 checkbox (settable, integer) 0
+															1625 cell
+																1626 text #006
+															1627 cell
+																1628 text SPU-11002 (45字符)
+																1629 text Kettlebell Cast Iron Weight for Strength Training
+															1630 cell
+																1631 text US/en
+															1632 cell
+																1633 text 未发现已覆盖问题
+															1634 cell
+																1635 text 原文可用
+															1636 cell
+																1637 text 未复核
+															1638 cell
+																1639 button 查看
+														1640 row
+															1641 cell
+																1642 checkbox (disabled, settable, integer) 0
+															1643 cell
+																1644 text #007
+															1645 cell
+																1646 text SPU-ERROR-1 error_outline 输入失败：文本包含不支持的特殊编码字符 (Line 7 Col 14)
+															1647 cell
+																1648 text US/en
+															1649 cell
+																1650 text 输入失败 (格式错误)
+															1651 cell
+																1652 text —
+															1653 cell
+																1654 text 不可处理
+															1655 cell
+																1656 button 查看错误
+														1657 row
+															1658 cell
+																1659 checkbox (disabled, settable, integer) 0
+															1660 cell
+																1661 text #008
+															1662 cell
+																1663 text SPU-NET-9 sync_problem 执行失败：检测服务响应超时，请重试此行
+															1664 cell
+																1665 text US/en
+															1666 cell
+																1667 text 执行失败 (可重试)
+															1668 cell
+																1669 text —
+															1670 cell
+																1671 text 待重试
+															1672 cell
+																1673 button refresh 重试此行
+																	1674 text refresh
+																	1675 text 重试此行
+													1676 text 显示  1  至  8  条，共  100  条 正常完成 94 条 异常 6 条 (输入4 / 执行2)
+													1677 button (disabled) chevron_left
+													1678 button 1
+													1679 button 2
+													1680 button 3
+													1681 text ...
+													1682 button 13
+													1683 button chevron_right
+													1684 text info 演示说明：检测结果仅覆盖当前规则，批量采用不等于店铺已发布。修改后的标题请按照各市场规定上线测试。 批次ID:  BAT-20250518-9941 响应耗时:  1.24s
+									937 container
+										938 text Generating Screen...
+										1685 container
+											1686 AXWebArea about:srcdoc
+												1687 container
+													1688 text TK 标题检查 B 方案 B | 演示数据
+													1689 link Description: terminal 检测工作台, Value: …
+													1690 link Description: history 检查历史, Value: …
+													1691 link Description: menu_book 规则词库, Value: …
+													1692 text 运营专员 只读模式 规则引擎 演示 v1
+												1693 container
+													1694 text 工作台 / 标题检查 演示数据 规则库: 演示 v1
+													1695 link Description: help_outline 帮助, Value: …
+													1696 text person
+												1697 container
+													1698 heading 单条检测, Value: 1
+														1699 text 单条检测
+													1700 text 演示数据 Engine: v1.14-b
+													1701 button tune 匹配规则集 (14项)
+														1702 text tune
+														1703 text 匹配规则集 (14项)
+													1704 button tune 历史记录
+														1705 text tune
+														1706 text 历史记录
+													1707 button 单条检测
+													1708 button 批量检测 CSV
+														1709 text 批量检测
+														1710 text CSV
+													1711 text 针对商品标题执行规则扫描，结论仅供运营参考。 edit_note 输入元数据 MODE: REALTIME 目标站点与语言 LOCALE
+													1712 pop up button (collapsed, settable) Value: 美国 (US) / 英语 (en-US), Secondary Actions: Expand
+														1713 menu
+															1714 (selected) 美国 (US) / 英语 (en-US)
+															1715 英国 (UK) / 英语 (en-GB)
+															1716 德国 (DE) / 德语 (de-DE)
+															1717 日本 (JP) / 日语 (ja-JP)
+													1718 text expand_more 商品发布类目 CATEGORY
+													1719 pop up button (collapsed, settable) Value: 运动与户外 > 健身器材 > 室内动感单车, Secondary Actions: Expand
+														1720 menu
+															1721 (selected) 运动与户外 > 健身器材 > 室内动感单车
+															1722 运动与户外 > 运动服饰 > 训练背心
+															1723 家居与生活 > 智能健康 > 智能手环
+													1724 text expand_more 商品原标题 *
+													1725 text 58 字符
+													1726 text entry area (settable) Value: MERACH  Indoor Cycling Bike with LCD Display | BEST SELLER, ID: title-input
+													1727 text 支持自动清洗多余空格、符号转义和敏感词探测
+													1728 button inventory_2 商品事实信息 已录入 3 项事实 expand_less, ID: toggle-facts-btn
+														1729 text inventory_2
+														1730 text 商品事实信息
+														1731 text 已录入 3 项事实
+														1732 text expand_less
+													1733 container facts-content
+														1734 text 品牌 (Brand): MERACH 产品类型: 室内动感健身车 (Indoor Bike) 核心参数: 配备 LCD 监控屏 / 磁控阻力
+														1735 button add_circle 追加属性约束
+															1736 text add_circle
+															1737 text 追加属性约束
+													1738 button play_arrow 重新检测, ID: run-check-btn
+														1739 text play_arrow
+														1740 text 重新检测
+													1741 button 清空, ID: reset-input-btn
+													1742 text info 合规规则速查 TikTok Shop 禁止绝对化修饰（BEST SELLER, TOP 1, NO.1），标题分隔符仅支持逗号、短横杠或自然空格，严禁堆砌竖线与特殊 Emoji。 待人工核验 1项核验 · 2条建议 · 规则覆盖已检查 verified 检测结果仅覆盖当前规则 原始标题词元分析 (TOKEN HIGHLIGHT) 3 个标记片段
+													1743 text MERACH
+													1744 text Indoor Cycling Bike with LCD Display
+													1745 text  | 
+													1746 text BEST SELLER
+													1747 text check_circle 品牌词  MERACH  全大写经词库核验为合法品牌名，豁免不误报。 问题诊断明细 按阻断优先级排列 待人工核验 营销修饰表述 "BEST SELLER"
+													1748 button 查看依据 arrow_drop_down
+														1749 text 查看依据
+														1750 text arrow_drop_down
+													1751 text 原因：包含热销/畅销修饰词，缺少官方权威资质证明。需核实是否有官方授权活动标识。 仅优化建议 格式规范：存在连续多余空格
+													1752 button 查看依据 arrow_drop_down
+														1753 text 查看依据
+														1754 text arrow_drop_down
+													1755 text 原因：品牌词与主体间存在连续 2 个空格，建议压缩为单个半角标准空格。 仅优化建议 格式规范：非规范分隔符 "|"
+													1756 button 查看依据 arrow_drop_down
+														1757 text 查看依据
+														1758 text arrow_drop_down
+													1759 text 原因：建议使用自然空格或常规逗号分隔，管道符 "|" 在移动端商品流中可读性较差。 auto_fix_high 优化建议候选 (格式草稿) 43 字符
+													1760 text MERACH Indoor Cycling Bike with LCD Display
+													1761 text content_copy lightbulb 改动说明： 已自动移除无凭证营销词 "BEST SELLER" 并规范多余空格与分隔符。不增加未经证实之功效，保证真实属性完整传递。
+													1762 button content_copy 复制候选草稿, ID: copy-draft-btn
+														1763 text content_copy
+														1764 text 复制候选草稿
+													1765 button swap_horiz 与原文对比 (Diff)
+														1766 text swap_horiz
+														1767 text 与原文对比 (Diff)
+													1768 button 进入建议复核 arrow_forward
+														1769 text 进入建议复核
+														1770 text arrow_forward
+													1771 text gavel 演示数据说明：检测结果仅覆盖当前规则集，复制或采用不等于店铺已发布。 Latency: 18ms · Lexicon Sync: 2024-03-29
+									939 container
+										940 text Generating Screen...
+										1772 container
+											1773 AXWebArea about:srcdoc
+												1774 container
+													1775 text TK 标题检查 B 方案 B | 演示数据
+													1776 link Description: terminal 检测工作台, Value: …
+													1777 link Description: history 检查历史, Value: …
+													1778 link Description: menu_book 规则词库, Value: …
+													1779 text 运营专员 只读模式 规则引擎 演示 v1
+												1780 container
+													1781 text 工作台 / 标题检查 演示数据 规则库: 演示 v1
+													1782 link Description: help_outline 帮助, Value: …
+													1783 text person
+												1784 container
+													1785 link Description: arrow_back 返回批量列表, Value: …
+													1786 text / 批次 #20250518_US / SPU-88219 / 建议复核 演示数据 schedule 生成时间: 14:32:08 模型: Rules-Engine-v2.4 lock 人工采用受控保护 HARD GATE 当前存在 
+													1787 text 3
+													1788 text  项未核实事实。必须在右侧事实清单逐项确认后方可解锁采用。 门禁策略: STRICT_FACT_VALIDATION history_toggle_off 原文诊断快照 只读存档 原字符数:  58  字符 | 2 处违规/建议 MERACH
+													1789 text Indoor Cycling Bike with LCD Display
+													1790 container 高风险违规项: 资质缺失
+														1791 text warning | BEST SELLER
+													1792 text error 待人工核验 "BEST SELLER" 缺少官方资质凭证 依据待核验：TikTok 跨境平台严打绝对化承诺词及虚假畅销声称，若无平台榜单认证属阻断级合规项。 info 仅优化建议 连续空格与非标准管道符 品牌后存在双重空格 (2 spaces)，尾部带有字符分割线 '|'，不符合海外本土搜索权重算法推荐格式。 auto_fix_high 优化候选标题 草稿编辑 实时复检状态: 未发现阻断项
+													1793 container
+														1794 text 当前: 
+														1795 text 43
+														1796 text  / 80 字符
+													1797 container
+														1798 text entry area (settable) Value: MERACH Indoor Cycling Bike with LCD Display, ID: candidate-input
+														1799 text 可直接输入调整
+													1800 text alt_route
+													1801 text 净化轨迹:
+													1802 text  移除未授权营销词 
+													1803 text "BEST SELLER"
+													1804 text ，合并去除多余空格与非法管道符。
+													1805 button play_arrow 重新检测候选, ID: btn-retest
+														1806 text play_arrow
+														1807 text 重新检测候选
+													1808 button content_copy 复制草稿文本, ID: btn-copy-draft
+														1809 text content_copy
+														1810 text 复制草稿文本
+													1811 button restart_alt 重置为原文, ID: btn-reset-original
+														1812 text restart_alt
+														1813 text 重置为原文
+													1814 text 词性及结构解析 (LEXICAL BLUEPRINT) 品牌商户: MERACH 类目主词: Indoor Cycling Bike 特性属性: with LCD Display fact_check 商品事实核验清单
+													1815 text 未确认 3 项
+													1816 text 为防止算法洗词导致商品属性虚标，合规系统要求在采用前必须针对以下关键主张进行事实确权。
+													1817 checkbox (settable, integer) Description: 事实项 01 · 品牌事实 BRAND_ID "MERACH" 依据待核验: 店铺拥有品牌官方合法授权，且商品备案商标库与标题一致。, Value: 0
+													1818 text 事实项 01 · 品牌事实 BRAND_ID
+													1819 text "MERACH"
+													1820 container
+														1821 text 依据待核验:  店铺拥有品牌官方合法授权，且商品备案商标库与标题一致。
+													1822 checkbox (settable, integer) Description: 事实项 02 · 产品类型 CATEGORY_MATCH "Indoor Cycling Bike (室内健身车)" 依据待核验: 准确对应平台二级类目【健身器械-动感单车】，非椭圆机或动感划船机。, Value: 0
+													1823 text 事实项 02 · 产品类型 CATEGORY_MATCH
+													1824 text "Indoor Cycling Bike (室内健身车)"
+													1825 container
+														1826 text 依据待核验:  准确对应平台二级类目【健身器械-动感单车】，非椭圆机或动感划船机。
+													1827 checkbox (settable, integer) Description: 事实项 03 · 核心配置 SPEC_VERIFY "with LCD Display (配备LCD显示屏)" 依据待核验: 实物发货包装、说明书以及商品BOM物料参数中明确包含电子显示屏。, Value: 0
+													1828 text 事实项 03 · 核心配置 SPEC_VERIFY
+													1829 text "with LCD Display (配备LCD显示屏)"
+													1830 container
+														1831 text 依据待核验:  实物发货包装、说明书以及商品BOM物料参数中明确包含电子显示屏。
+													1832 button done_all 一键确认全部 3 项事实 (需核验), ID: btn-check-all
+														1833 text done_all
+														1834 text 一键确认全部 3 项事实 (需核验)
+													1835 text shield_lock 合规采用控制台
+													1836 container gate-helper-text
+														1837 text 当前未确认  3  项事实，采用按钮已锁定。候选无阻断不能代替人工事实确认。
+													1838 button (disabled) lock 采用此标题 (需先确认事实), ID: btn-adopt
+														1839 text lock
+														1840 text 采用此标题 (需先确认事实)
+													1841 button 仅保留原文 (忽略), ID: btn-ignore-all
+													1842 button 复制草稿文本, ID: btn-copy-alt
+													1843 text 核验员: 运营专员 (ID: 4891) 流水状态: PENDING_REVIEW info 演示说明：采用或复制仅更新内部运营审查状态，不等于店铺或平台已发布。 合规引擎基准: v2025.05 •
+													1844 link Description: 查看审计准则, Value: …
+									941 container
+										942 text Generating Screen...
+										1845 container
+											1846 AXWebArea about:srcdoc
+												1847 container
+													1848 text TK 标题检查 B 方案 B | 演示数据
+													1849 link Description: terminal 检测工作台, Value: …
+													1850 link Description: history 检查历史, Value: …
+													1851 link Description: menu_book 规则词库, Value: …
+													1852 text 运营专员 只读模式 规则引擎 演示 v1
+												1853 container
+													1854 text 工作台 / 标题检查 演示数据 规则库: 演示 v1
+													1855 link Description: help_outline 帮助, Value: …
+													1856 text person
+												1857 container
+													1858 heading 检查历史, Value: 1
+														1859 text 检查历史
+													1860 text 演示数据 追踪单条与批量标题检查记录与人工复核决策审计日志。 tune 引擎版本:  演示 v1.4 日志索引延迟:  < 180ms search
+													1861 text field (settable) SPU-88219
+													1862 button calendar_today 近 7 天 (2025-05-12 ~ 2025-05-18) expand_more
+														1863 text calendar_today
+														1864 text 近 7 天
+														1865 text (2025-05-12 ~ 2025-05-18)
+														1866 text expand_more
+													1867 button 市场: 美国 (US) expand_more
+														1868 text 市场:
+														1869 text 美国 (US)
+														1870 text expand_more
+													1871 button 店铺: US_Fitness_Store_A expand_more
+														1872 text 店铺:
+														1873 text US_Fitness_Store_A
+														1874 text expand_more
+													1875 button 结论: 全部结论 expand_more
+														1876 text 结论:
+														1877 text 全部结论
+														1878 text expand_more
+													1879 button download 导出审计日志
+														1880 text download
+														1881 text 导出审计日志
+													1882 button refresh, Help: 刷新数据
+													1883 text 审计明细列表 FILTER: ACTIVE 共  142  条记录
+													1884 table
+														1885 row
+															1886 cell
+																1887 text 检查时间
+															1888 cell
+																1889 text 商品ID / 原标题
+															1890 cell
+																1891 text 规则版本
+															1892 cell
+																1893 text 原文结论
+															1894 cell
+																1895 text 人工状态
+															1896 cell
+																1897 text 操作
+														1898 row
+															1899 cell
+																1900 text 10:24:02 今天
+															1901 cell
+																1902 text SPU-88219 US
+																1903 container MERACH Indoor Cycling Bike with LCD Display | BEST SELLER
+																	1904 text MERACH Indoor Cycling Bike with LCD Display  | BEST SELLER
+															1905 cell
+																1906 text 演示 v1
+															1907 cell
+																1908 text 待人工核验
+															1909 cell
+																1910 text 待复核
+															1911 cell
+																1912 button 查看详情 arrow_forward
+																	1913 text 查看详情
+																	1914 text arrow_forward
+														1915 row
+															1916 cell
+																1917 text 09:41:18 今天
+															1918 cell
+																1919 text SPU-99104 US
+																1920 container
+																	1921 text YOSUDA Magnetic Rowing Machine with 16 Level Resistance  FDA APPROVED!!
+															1922 cell
+																1923 text 演示 v1
+															1924 cell
+																1925 text 阻断问题
+															1926 cell
+																1927 text 已阻断废弃
+															1928 cell
+																1929 button 查看详情
+														1930 row
+															1931 cell
+																1932 text 16:15:40 昨天
+															1933 cell
+																1934 text SPU-77210 US
+																1935 text Adjustable Dumbbells Set 55lbs Fast Weight Adjust Free Weights
+															1936 cell
+																1937 text 演示 v1
+															1938 cell
+																1939 text 仅优化建议
+															1940 cell
+																1941 text 已采用草稿
+															1942 cell
+																1943 button 查看详情
+														1944 row
+															1945 cell
+																1946 text 14:02:11 昨天
+															1947 cell
+																1948 text SPU-33129 US
+																1949 text Foldable Treadmill with Incline Electric Running Machine
+															1950 cell
+																1951 text 演示 v1
+															1952 cell
+																1953 text 未发现已覆盖问题
+															1954 cell
+																1955 text 确认原文
+															1956 cell
+																1957 button 查看详情
+														1958 row
+															1959 cell
+																1960 text 11:30:52 05-16
+															1961 cell
+																1962 text SPU-66512 US
+																1963 text Push Up Board Multi-Function 14-in-1 Foldable Workout Bar
+															1964 cell
+																1965 text 演示 v1
+															1966 cell
+																1967 text 未发现已覆盖问题
+															1968 cell
+																1969 text 确认原文
+															1970 cell
+																1971 button 查看详情
+													1972 text 显示 1 - 5 条，共 142 条
+													1973 button 1
+													1974 button 2
+													1975 button 3
+													1976 text ...
+													1977 button 18
+													1978 button chevron_right, Help: 下一页
+													1979 text history_edu 检查快照与流转审计 #SPU-88219
+													1980 button open_in_new, Help: 在新标签页放大查看
+													1981 button close, Help: 关闭详情
+													1982 text 输入环境快照 ID: snap_88219_b
+													1983 text 市场与语言
+													1984 text 美国 en-US
+													1985 text 所属类目
+													1986 text 健身器材 / 动感单车
+													1987 text 生效规则版本
+													1988 text 演示 v1.4.2
+													1989 text 提交操作人
+													1990 text ops_04 (专员)
+													1991 text 规则扫描结论 1 待核验 / 2 格式优化 warning 修饰词缺乏事实凭证 需人工确证
+													1992 container
+														1993 text 命中词  BEST SELLER 。平台禁止在无第三方公证或平台榜单授权证明下使用绝对化热销修饰。
+													1994 text format_shapes 书写规范告警 已自动纠正
+													1995 container
+														1996 text 检测到品牌词后存在连续双空格  "MERACH  Indoor"  及尾部冗余管道分隔符。
+													1997 text 合规优化候选 (草稿) 43 字符 / 约 7 词
+													1998 text MERACH Indoor Cycling Bike with LCD Display
+													1999 text check_circle 已自动剔除无凭证标签，恢复类目核心词排列权重。 流转审计轨迹 (Audit Trail) 共 4 步节点
+													2000 container
+														2001 text 系统接收输入快照 10:24:02
+														2002 text 原始标题及录入环境封存，生成签名哈希校验码。
+														2003 text 规则引擎扫描完成 10:24:05
+														2004 container
+															2005 text 规则引擎演示 v1 扫描，判定结果为:  待人工核验
+														2006 text 生成候选优化草稿 10:24:08
+														2007 text 自动应用修剪策略，剔除无凭证修饰词并规范标点空格。
+														2008 text 等待人工事实核验 10:25:00 (当前)
+														2009 text 转入审核队列，待运营专员核实 Best Seller 官方资质资质文件。
+													2010 button print 打印凭证
+														2011 text print
+														2012 text 打印凭证
+													2013 button 前往建议复核工作台 arrow_forward
+														2014 text 前往建议复核工作台
+														2015 text arrow_forward
+													2016 text info 演示说明：审计日志仅记录内部规则流转，无发布与流量数据。 日志存储周期: 90 天 当前只读快照 ID: 20250518-88219-B
+									943 container
+										944 text Generating Screen...
+										2017 container
+											2018 AXWebArea about:srcdoc
+												2019 container
+													2020 text TK 标题检查 B 方案 B | 演示数据
+													2021 link Description: terminal 检测工作台, Value: …
+													2022 link Description: history 检查历史, Value: …
+													2023 link Description: menu_book 规则词库, Value: …
+													2024 text 运营专员 只读模式 规则引擎 演示 v1
+												2025 container
+													2026 text 工作台 / 标题检查 演示数据 规则库: 演示 v1
+													2027 link Description: help_outline 帮助, Value: …
+													2028 text person
+												2029 container
+													2030 heading 规则词库, Value: 1
+														2031 text 规则词库
+													2032 text 演示数据 PostHog/Lemon v2.4 维护标题检查规则集与品类专用词库。当前运营视角为只读，规则维护人员可申请编辑。
+													2033 button tune 词库全量导出
+														2034 text tune
+														2035 text 词库全量导出
+													2036 button edit_note 申请编辑草稿
+														2037 text edit_note
+														2038 text 申请编辑草稿
+													2039 button rule_settings 检查规则集 (11项目录) Active
+														2040 text rule_settings
+														2041 text 检查规则集 (11项目录)
+														2042 text Active
+													2043 button dataset 基础与品类词库 (186项) Read-only
+														2044 text dataset
+														2045 text 基础与品类词库 (186项)
+														2046 text Read-only
+													2047 text 当前启用基准规则集: 跨境电商标题规则 (演示 v1) | 生效日期:  2025-03-01 | 适用范围:  美国站 (en-US) / 运动户外 | lock 只读沙盒模式 规则指纹: sha256:d8c03e
+													2048 link Description: 变更审计 arrow_forward, Value: …
+													2049 text search
+													2050 text field (settable)
+													2051 text 筛选:
+													2052 button 全部 (11)
+													2053 button 阻断 (5)
+													2054 button 建议 (6)
+													2055 text Group A · 平台要求 (强制阻断类) 4 条规则 违规将直接驳回或下架 #01 营销修饰词核验 Marketing Claims 强制阻断 待核验 拦截带有诱导性夸大承诺词（如 
+													2056 text BEST SELLER
+													2057 text 、
+													2058 text TOP 1
+													2059 text 、
+													2060 text NO.1 RATED
+													2061 text  等绝对化词）。 chevron_right #02 违禁词与未备案认证资质 Prohibited & Certifications 强制阻断 拦截未经安全中心白名单备案的医疗/特种认证声明（如 
+													2062 text FDA APPROVED
+													2063 text 、
+													2064 text MEDICAL GRADE
+													2065 text  等）。 chevron_right #03 知识产权与非授权品牌 Brand Infringement 强制阻断 拦截第三方知名注册商标、未经授权竞品品名以及常见碰瓷拼写。 chevron_right #04 核心品类错置 Category Mismatch 强制阻断 检查主体产品词是否契合当前挂载的品类分类树，防止错挂导致流量惩罚。 chevron_right Group B · 规范建议 (书写与体验类) 4 条规则 保障买家端阅读与点击率 #05 标题长度阈值 Title Length 仅建议 长度阈值待核验 长度阈值待核验，当前仅展示字符数，不设固定 80 或 255 截断。平衡移动端视觉截断与自然搜索权重。 已选定查看 arrow_forward_ios #06 全大写字母滥用 All-Caps Abuse 仅建议 拦截普通词汇全部大写，内置备案品牌白名单豁免（如 
+													2066 text MERACH
+													2067 text 、
+													2068 text YOSUDA
+													2069 text ）。 chevron_right #07 非法标点与分隔符 Symbols & Delimiters 仅建议 限制管道符 
+													2070 text |
+													2071 text 、连续下划线、波浪号及密集感叹号等非规范排版字符。 chevron_right #08 连续多余空白符 Excessive Whitespace 仅建议 拦截双重或三重连续空格、首尾悬空空白符与半全角混乱空格。 chevron_right Group C · 内部经验 (搜索转化与完整度) 3 条规则 最佳实践沉淀 #09 关键属性完整性 Core Attributes 仅建议 智能核算：[品牌] + [核心产品品类] + [型号规格] + [主核心材质/特征] 的结构完整度。 chevron_right #10 重复堆砌词拦截 Keyword Stuffing 仅建议 拦截同一词根或完全相同词项出现 ≥3 次，避免被搜索引擎降权判定为关键词堆砌。 chevron_right #11 违规联系方式与引流词 Contact & Off-site 强制阻断 严密过滤网址后缀（
+													2072 text .com
+													2073 text 、
+													2074 text www
+													2075 text ）、社交号及站外引流词。 chevron_right #Rule-05 标题长度阈值 仅建议 · 长度阈值待核验 info 规则逻辑与判断基准
+													2076 text 长度阈值待核验，当前仅展示字符数。平台未设定绝对固定上限，不执行硬性截断，需在移动端可读性与搜索关键词覆盖间求取平衡。
+													2077 text warning_amber 动态计数策略提醒
+													2078 container
+														2079 text 仅展示实际字符数计数，绝不设 80 或 255 固定硬切上限。  系统会根据当前输入动态高亮推荐阅读区间，但不触发阻塞拦截。
+													2080 text 移动端折叠前段: ~70 chars 桌面端搜索全宽: ~180 chars verified_user 白名单与例外规则 (Exceptions) 2 项关联例外 EX-01
+													2081 text 合法全大写品牌词豁免
+													2082 container
+														2083 text 经词库认证之品牌（如  MERACH ,  YOSUDA ）即便字母全大写，亦不触发“全大写字母滥用”核验。
+													2084 text EX-02
+													2085 text 特殊规格型号组合符号豁免
+													2086 container
+														2087 text 工业型号连字符（如  FT-MC-882 、 150LBS ）受正规表达式保活支持，不受非法标点策略拦截。
+													2088 text fact_check 关联词库切片预览 (运动户外专属) 查看全集 → 备案品牌白名单 (42个): Brand Registry Sync MERACH YOSUDA BOWFLEX SCHWINN +38 个 标准品类核心词 (128个): Category Taxonomy Exercise Bike Rowing Machine Dumbbell +125 个 规范单位缩写 (16个): Standard Units lbs kg HP inch cm levels 更新时间: 2025-02-28 17:42:09 审核人: compliance-sec-01 info 演示说明：规则及词库均为只读展示，规则修改需合规团队双人审核。 引擎响应: 12ms 同步队列: 0 pending 规则集状态: LOCKED
+								810 image
+								811 image
+								812 image
+								813 image
+								906 container
+									907 text entry area (settable) 
+
+										908 container
+											945 text What would you like to change or create?
+									910 button 选择文件
+									911 pop up button (collapsed) Secondary Actions: Expand
+										912 image
+									913 pop up button (collapsed) /, Secondary Actions: Expand
+										914 image
+											915 text /
+									916 button
+										917 image
+									918 pop up button (collapsed) Secondary Actions: Expand
+										919 image
+										920 image
+									921 pop up button (collapsed) Balanced, Secondary Actions: Expand
+										922 text Balanced
+										923 image
+									924 button
+										925 image
+									926 button (disabled)
+										927 image
+								836 pop up button (collapsed) Secondary Actions: Expand
+									837 container
+										946 image
+										947 text Agent log
+										840 image
+								841 container
+									842 button Collapse panel
+										843 image
+									880 container
+										928 container
+											929 image weko bear
+											930 text 在当前项目、当前画布中新增独立的“方案 B｜PostHog 风格”对比组。最重要：保留全部现有设计系统、页面和原型节点，绝对不要修改、替换、删除、重命名现有节点。现有页面是方案A。请创建5个新的screen节点，在原方案整组下方排成另一行（至少留200px间距），每个新页面名以 B- 开头；不要另建项目，不要使用编辑现有页面的操作。 设计目标：为同一个TK商品标题检测工具提供第二种视觉与布局选择。参考PostHog登录后后台的紧凑侧边导航、上方页面标题和上下文Tabs、搜索左置/筛选右置的工具条、整块数据表、右侧详情面板。结合PostHog暖灰/黄橙品牌。所有业务功能和数据与方案A保持可比较；不得增加分析看板、GMV、CTR、发布或订阅功能。 设计令牌：背景#eeefe9，导航#e5e7e0，内容#fcfcfa，表格/输入白色，主文字#23251d，次文字#4d4f46，边框#bfc1b7或#dcdfd2；主按钮#f7a501+深色文字，选中Tabs用橙色下划线，导航选中用更深暖灰。默认4–6px小圆角、1px细边框、几乎无阴影。去掉蓝紫色大面板、圆角12px卡片套卡片。字体IBM Plex Sans+中文系统无衬线，正文14–16px，标题22px，数字tabular-nums。重点是表格、行和分隔线，不把每段内容做浮动卡片。状态红/琥珀/蓝/绿少量点缀且有文字。每屏一个主操作。保留TK自己的名称，不使用PostHog logo/刺猬/营销插画。 组件语义参考PostHog Lemon UI：Button、Input/Textarea、Select、Tabs、Table、Tag、Checkbox、Collapse、Drawer、Pagination。视觉层面映射这些组件即可，不宣称已安装组件库。所有输入有持久label，disabled与loading可识别。 5页内容：01单条检测完成态；02批量100条列表；03候选标题复核；04检查历史；05规则与词库。用演示数据。原标题“MERACH Indoor Cycling Bike with LCD Display | BEST SELLER”（58字符，包含品牌后2个空格）；候选“MERACH Indoor Cycling Bike with LCD Display”（43字符）。1项待核验(BEST SELLER)、2条格式建议(连续空格/管道符)，不误报品牌大写。3项事实品牌/室内健身车/LCD屏，未勾选完成时采用按钮禁用；候选无阻断不能代替人工事实确认。批量统计100=输入失败4+执行失败2+阻断9+待核验18+仅建议27+未发现已覆盖问题40，重试仅2条执行失败。最多100条/5MB。 文案必须精简：问题列表每项默认一行原因+展开依据，长说明默认折叠；移除PRO、环境ID、引擎/耗时、内部代码、虚构法规名/无依据的降权断言。所有来源未知显示“依据待核验”，长度只计数、阈值待核验，绝不写80或255固定上限。规则版本统一“演示 v1”。页面标题不写合规诊断、不写百分百合规或已达标准。复制/采用不等于发布。11项规则目录，规则及词库只读。 本项目新增PC端：命名B-PC-01 单条检测、B-PC-02 批量检测、B-PC-03 建议复核、B-PC-04 检查历史、B-PC-05 规则词库。宽1440px。220px紧凑Sidebar，仅检测工作台/历史/规则三个模块；顶部48px标题区，内容padding24。单条：左侧35%紧凑输入+右侧65%结果，首屏能看到主操作和结果摘要。批量：标题下下划线Tabs，然后一行统计/搜索筛选，整块紧凑表格（8列、8行、细横线），行尾更多，选中2条显示内联操作条；不要黑色悬浮大条。复核：左右对照，右侧窄事实核验面板。历史：主表+右侧详情Drawer。规则：二级目录+详情。视觉高度控制为约900–1100px，避免两三屏长页面。请完成5个新页面。
+										931 button Copy prompt
+											932 image
+										933 button 展开
+											934 image
+										948 container
+											949 text 已在当前项目中成功新增独立的「方案 B｜PostHog 风格」对比组（共 5 个 PC 端全新独立页面，宽 1440px），所有现有方案 A 的页面（PC-01 至 PC-05）及设计系统均完整保留，未做任何修改、替换或删除。
+											950 heading 方案 B（PostHog 风格）设计决策与落地清单：, Value: 3
+												951 text 方案 B（PostHog 风格）设计决策与落地清单：
+											952 content list
+												953 container
+													954 AXListMarker • 
+													955 text 视觉语言与设计系统（Tactical Engineer - Lemon UI 质感）
+													956 text ：
+													957 content list
+														958 container
+															959 AXListMarker • 
+															960 text 基底与色彩 ：采用温暖沉稳的灰底（#EEEFE9）、导航侧边栏（#E5E7E0）、内容背景（#FCFCFA）、纯白数据表/输入框表面；品牌主操作色采用 PostHog 标志性的暖黄橙（#F7A501）配深色文字（#23251D）。
+														961 container
+															962 AXListMarker • 
+															963 text 紧凑布局与组件规范 ：彻底摒弃蓝紫色大卡片与 12px 圆角堆叠，转为 4–6px 小圆角、1px 细边框（#DCDFD2 / #BFC1B7）与几乎零阴影的紧凑分隔体系。Tabs 切换采用橙色下划线（#F7A501）；数字采用等宽对齐（tabular-nums）。
+														964 container
+															965 AXListMarker • 
+															966 text 导航结构 ：220px 紧凑 Sidebar，精简为「检测工作台、检查历史、规则词库」3 个核心入口，顶部 48px 轻量导航栏。
+												967 container
+													968 AXListMarker • 
+													969 text 5 个独立新页面（以 B- 开头）
+													970 text ：
+													971 content list
+														972 container
+															973 AXListMarker • 
+															974 text B-PC-01 单条检测
+															975 text ：
+															976 content list
+																977 container
+																	978 AXListMarker • 
+																	979 text 35% / 65% 双栏紧凑架构 ：左侧录入卡片配备持久 Label、字符数统计（58 字符，绝不写 /255 或上限）与折叠式商品事实（3项）；右侧诊断面板展示高亮词元标记与命中说明。
+																980 container
+																	981 AXListMarker • 
+																	982 text 业务语义统一 ：1 项待人工核验（BEST SELLER，提示依据待核验）、2 条格式建议（连续空格、管道符），MERACH 全大写经词库核验豁免不误报；生成 43 字符候选草稿，仅剔除无依据修饰与整理符号。
+														983 container
+															984 AXListMarker • 
+															985 text B-PC-02 批量检测
+															986 text ：
+															987 content list
+																988 container
+																	989 AXListMarker • 
+																	990 text 整块数据表与紧凑统计 ：顶部单行紧凑数据条严谨呈现 100 条统计（输入失败 4、执行失败 2、阻断 9、待核验 18、仅建议 27、未发现已覆盖问题 40）。
+																991 container
+																	992 AXListMarker • 
+																	993 text 左搜右筛与内联操作 ：单行工具条左置搜索、右置筛选与导出；选中 2 条后激活内联操作条并配备暖橙主按钮「批量生成 2 条建议」；「重试执行失败」精准限制在 2 条。
+														994 container
+															995 AXListMarker • 
+															996 text B-PC-03 建议复核
+															997 text ：
+															998 content list
+																999 container
+																	1000 AXListMarker • 
+																	1001 text 左右对照与受控硬门禁 ：左侧展示原文快照（58字符）与可编辑优化草稿（43字符）；右侧窄栏放置「商品事实核验清单（未确认 3 项）」。
+																1002 container
+																	1003 AXListMarker • 
+																	1004 text 硬门禁保护 ：在 3 项事实未核验前，主操作「采用此标题」严格保持锁定禁用，明确提示候选无阻断不能代替人工事实确认。
+														1005 container
+															1006 AXListMarker • 
+															1007 text B-PC-04 检查历史
+															1008 text ：
+															1009 content list
+																1010 container
+																	1011 AXListMarker • 
+																	1012 text 表格 + 右侧详情 Drawer ：左侧历史明细紧凑清晰（包含检查时间、商品ID/原标题、规则版本 演示 v1、原文结论、人工状态）；右侧抽屉完整复原输入快照、规则扫描结论、候选草稿与审计流转时间线。
+														1013 container
+															1014 AXListMarker • 
+															1015 text B-PC-05 规则词库
+															1016 text ：
+															1017 content list
+																1018 container
+																	1019 AXListMarker • 
+																	1020 text 二级目录与阈值核验 ：左侧分组收敛 11 项检查目录（平台要求、规范建议、内部经验）；右侧选中展开详情，针对「#Rule-05 标题长度阈值」明确标注“长度阈值待核验，当前仅展示字符数，绝不设 80 或 255 固定硬切上限”；底部配备品牌白名单（42个）、品类词（128个）及单位缩写（16个）。
+											1021 text 全屏高度严格控制在 900–1050px 之间，避免多屏冗余滚动，完美匹配 PostHog 开发与运维工具特有的高密度、高信息量与专业操控体验。
+					844 container 无法播放媒体。
+		845 container Notifications alt+T
+			846 content list
+
+The focused UI element is 926 button (disabled)

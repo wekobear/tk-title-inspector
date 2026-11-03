@@ -1,0 +1,1434 @@
+Browser tab: 1980452985, Title: "Stitch - Projects", URL: "https://stitch.withgoogle.com/projects/16828153940817608201".
+0 AXWebArea Stitch - Projects, URL: stitch.withgoogle.com/projects/16828153940817608201
+	1 container
+		2 container Description: Stitch - Design with AI, ID: I0_1792635096024
+			3 AXWebArea Stitch, URL: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#id=I0_1792635096024&_gfid=I0_1792635096024&parent=https%3A%2F%2Fstitch.withgoogle.com&pfname=&rpctoken=37570239
+				4 container
+					5 container
+						6 container
+							7 pop up button (collapsed) Secondary Actions: Expand
+								8 image
+							9 button TK 标题检查 · MO端样式
+							10 button Rename Project
+								11 image
+						29 container
+							1472 button
+								1473 image
+							32 button Export
+								33 image
+								34 text Export
+							35 button Share
+								36 image
+								37 text Share
+							38 pop up button (collapsed) Description: Account Menu, Secondary Actions: Expand
+								39 image Profile image for weko bear
+						40 button
+							41 image
+						42 button
+							43 image
+						44 button
+							45 image
+						46 button
+							47 image
+						48 container
+							49 button 选择文件
+							50 button
+								51 image
+						52 button
+							53 image
+						54 button
+							55 image
+						56 button Undo
+						57 button (disabled) Redo
+						58 pop up button (collapsed) 31%, Secondary Actions: Expand
+						59 pop up button (collapsed) Description: Helpful Links, Secondary Actions: Expand
+							60 image
+						61 button 选择文件
+						62 container
+							63 container
+								64 container
+									65 text Operational Title Compliance Engine
+									66 text Primary
+									67 text #2563EB
+									68 text Secondary
+									69 text #667085
+									70 text Tertiary
+									71 text #D97706
+									72 text Neutral
+									73 text #182230
+									74 container
+										75 text Headline Inter Aa
+									76 button Primary
+									77 button Secondary
+									78 button Inverted
+									79 button Outlined
+									80 text search Search
+									81 container
+										82 text Body Inter Aa
+									83 text home search person
+									84 container
+										85 text Label Inter Aa
+									86 text edit edit Label auto_fix_high category sell delete
+								87 container
+									88 text Generating Screen...
+									91 container
+										92 AXWebArea about:srcdoc
+											93 container
+												94 text verified_user
+												95 container TK 标题检查
+													96 text TK 标题检查
+												97 container 内部运营
+													98 text 内部运营
+												99 container 演示数据
+													100 text 演示数据
+												101 text person
+											102 container
+												103 button text_fields 单条检测
+													104 text text_fields
+													105 container 单条检测
+														106 text 单条检测
+												107 button dynamic_feed 批量检测 PRO
+													108 text dynamic_feed
+													109 container 批量检测
+														110 text 批量检测
+													111 container PRO
+														112 text PRO
+												113 button public 美国 (US) · 英语 (EN) · 健身器材 切换 expand_more
+													114 container
+														115 text public
+														116 container 美国 (US) · 英语 (EN) · 健身器材
+															117 text 美国 (US) · 英语 (EN) · 健身器材
+													118 container 切换
+														119 text 切换
+													120 text expand_more
+												121 container info
+示例筛选，不代表生产范围已确定
+													122 text info
+													123 container 示例筛选，不代表生产范围已确定
+												124 text edit_note
+												125 container 商品原标题
+													126 text 商品原标题
+												127 container 62
+													128 text 62
+												129 container 字符
+													130 text 字符
+												131 container MERACH  Indoor Cycling Bike with LCD Display | BEST SELLER
+													132 text MERACH  Indoor Cycling Bike with LCD Display | BEST SELLER
+												133 container 已录入待检源文本
+													134 text 已录入待检源文本
+												135 button content_paste 替换粘贴
+													136 text content_paste
+													137 container 替换粘贴
+														138 text 替换粘贴
+												139 button (expanded) 商品已核实事实 3项已确认 虚构演示资料 keyboard_arrow_down, Secondary Actions: Collapse
+													140 container 商品已核实事实
+														141 text 商品已核实事实
+													142 container 3项已确认
+														143 text 3项已确认
+													144 container 虚构演示资料
+														145 text 虚构演示资料
+													146 text keyboard_arrow_down
+												147 text verified
+												148 container 品牌
+													149 text 品牌
+												150 container MERACH (麦瑞克)
+													151 text MERACH (麦瑞克)
+												152 text category
+												153 container 核心品类
+													154 text 核心品类
+												155 container 室内健身车 (Indoor Cycling Bike)
+													156 text 室内健身车 (Indoor Cycling Bike)
+												157 text devices
+												158 container 规格配件
+													159 text 规格配件
+												160 container 配备 LCD 液晶屏 (LCD Display)
+													161 text 配备 LCD 液晶屏 (LCD Display)
+												162 button rule 重新检测
+													163 text rule
+													164 container 重新检测
+														165 text 重新检测
+												166 button delete_sweep, Help: 清空输入
+												167 text assignment_late
+												168 heading 3
+													169 text 检测结论反馈
+												170 container 标题检查 · 规则版本 演示 v1
+													171 text 标题检查 · 规则版本 演示 v1
+												172 text warning
+												173 container 待人工核验
+													174 text 待人工核验
+												175 container 1
+													176 text 1
+												177 container 项待核验 (阻断风险)
+													178 text 项待核验 (阻断风险)
+												179 container 2
+													180 text 2
+												181 container 条优化建议 (格式/符号)
+													182 text 条优化建议 (格式/符号)
+												183 container 问题明细列表
+													184 text 问题明细列表
+												185 container 共 3 条
+													186 text 共 3 条
+												187 container 演示数据
+													188 text 演示数据
+												189 container gavel
+待人工核验
+													190 text gavel
+													191 container 待人工核验
+												192 container 平台规范核验 · 官方要求
+													193 text 平台规范核验 · 官方要求
+												194 container #01
+													195 text #01
+												196 container 命中文本:
+													197 text 命中文本:
+												198 container BEST SELLER
+													199 text BEST SELLER
+												200 container 营销导向表述需人工核验。如无平台官方热销榜单凭证，不得在标题中宣称 BEST SELLER，避免被判定夸大宣传或诱导点击。
+													201 text 营销导向表述需人工核验。如无平台官方热销榜单凭证，不得在标题中宣称 BEST SELLER，避免被判定夸大宣传或诱导点击。
+												202 button 查看依据与违规案例 expand_more
+													203 container 查看依据与违规案例
+														204 text 查看依据与违规案例
+													205 text expand_more
+												206 container 需补充佐证凭证
+													207 text 需补充佐证凭证
+												208 container tune
+排版优化建议
+													209 text tune
+													210 container 排版优化建议
+												211 container 排版与可读性 · 内部经验
+													212 text 排版与可读性 · 内部经验
+												213 container #02
+													214 text #02
+												215 container 命中文本:
+													216 text 命中文本:
+												217 container MERACH
+													218 text MERACH
+												219 container ␣␣
+													220 text ␣␣
+												221 container Indoor
+													222 text Indoor
+												223 container 检测到连续空格格式问题。搜索索引在移动端排版时可能造成展示空隙，建议缩减规范为单一标准半角空格。
+													224 text 检测到连续空格格式问题。搜索索引在移动端排版时可能造成展示空隙，建议缩减规范为单一标准半角空格。
+												225 button 查看依据 expand_more
+													226 container 查看依据
+														227 text 查看依据
+													228 text expand_more
+												229 button
+												230 container straighten
+符号规范建议
+													231 text straighten
+													232 container 符号规范建议
+												233 container 符号规范 · 官方建议
+													234 text 符号规范 · 官方建议
+												235 container #03
+													236 text #03
+												237 container 命中文本:
+													238 text 命中文本:
+												239 container Display
+													240 text Display
+												241 container |
+													242 text |
+												243 container BEST
+													244 text BEST
+												245 container 竖线 "|" 属于非标准分隔符，在 TikTok 移动端商品信息流折叠卡片中易触发异常断行或截断，建议去除或替换为常规空格。
+													246 text 竖线 "|" 属于非标准分隔符，在 TikTok 移动端商品信息流折叠卡片中易触发异常断行或截断，建议去除或替换为常规空格。
+												247 button 查看依据 expand_more
+													248 container 查看依据
+														249 text 查看依据
+													250 text expand_more
+												251 button
+												252 text format_image_left
+												253 container 防误报白名单机制生效
+													254 text 防误报白名单机制生效
+												255 container 品牌词 MERACH 已在白名单中，防误报保护已生效。
+													256 text 品牌词 
+													257 text MERACH
+													258 text  已在白名单中，防误报保护已生效。
+												259 text auto_fix_high
+												260 heading 3
+													261 text 可选候选建议 (草稿)
+												262 container 44 字符
+													263 container 44
+													264 text  字符
+												265 container 演示 v1
+													266 text 演示 v1
+												267 container 优化后标题方案:
+													268 text 优化后标题方案:
+												269 container MERACH Indoor Cycling Bike with LCD Display
+													270 text MERACH Indoor Cycling Bike with LCD Display
+												271 container help_outline
+检测结果仅覆盖当前规则，不等于店铺已发布。
+													272 text help_outline
+													273 container 检测结果仅覆盖当前规则，不等于店铺已发布。
+												274 button fact_check 进入候选复核 (MO-03)
+													275 text fact_check
+													276 container 进入候选复核 (MO-03)
+														277 text 进入候选复核 (MO-03)
+												278 button content_copy 复制建议草稿, ID: copyBtn
+													279 text content_copy
+													280 container Value: 复制建议草稿, ID: copyText
+														281 text 复制建议草稿
+											282 container
+												283 link Description: spellcheck 检测, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												284 link Description: history 历史, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												285 link Description: menu_book 规则与词库, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+								286 container
+									287 text Generating Screen...
+									288 container
+										289 AXWebArea about:srcdoc
+											290 container
+												291 text verified_user
+												292 container TK 标题检查
+													293 text TK 标题检查
+												294 container 内部运营
+													295 text 内部运营
+												296 container 演示数据
+													297 text 演示数据
+												298 text person
+											299 container
+												300 button edit_note 单条检测
+													301 text edit_note
+													302 container 单条检测
+														303 text 单条检测
+												304 button rule_folder 批量检测
+													305 text rule_folder
+													306 container 批量检测
+														307 text 批量检测
+												308 text upload_file
+												309 heading 2
+													310 text 批量导入检测
+												311 container CSV / XLSX
+													312 text CSV / XLSX
+												313 container 单次最多支持 100 条 / 5MB · 规则版本 演示 v1
+													314 text 单次最多支持 100 条 / 5MB · 规则版本 演示 v1
+												315 button download 下载模板
+													316 text download
+													317 container 下载模板
+														318 text 下载模板
+												319 text cloud_upload
+												320 container 选择文件或拖拽上传
+													321 text 选择文件或拖拽上传
+												322 container 点按浏览手机本地文件或工作台表格
+													323 text 点按浏览手机本地文件或工作台表格
+												324 container summary-toggle-btn
+													325 container 批次 #20240518-01 完成
+														326 text 批次 #20240518-01 完成
+													327 container 共 100 条
+														328 text 共 100 条
+													329 button 收起统计 expand_less
+														330 container Value: 收起统计, ID: summary-toggle-text
+															331 text 收起统计
+														332 text expand_less
+												333 container summary-content
+													334 container 阻断问题
+														335 text 阻断问题
+													336 container 9
+														337 text 9
+													338 container 待人工核验
+														339 text 待人工核验
+													340 container 18
+														341 text 18
+													342 container 仅优化建议
+														343 text 仅优化建议
+													344 container 27
+														345 text 27
+													346 container 未发现已覆盖问题
+														347 text 未发现已覆盖问题
+													348 container 40
+														349 text 40
+													350 container 输入格式失败: 4
+														351 text 输入格式失败: 
+														352 text 4
+													353 container ·
+														354 text ·
+													355 container 执行失败:
+2
+重试执行失败 (2条)
+														356 text 执行失败:
+														357 text 2
+														358 button
+													359 container ·
+														360 text ·
+													361 container 可导出: 94 条
+														362 text 可导出: 
+														363 text 94
+														364 text  条
+													365 text info
+													366 container 检测结果仅覆盖当前规则，复制或采用不等于店铺已发布。
+														367 text 检测结果仅覆盖当前规则，复制或采用不等于店铺已发布。
+												368 container
+													369 text search
+													370 text field (settable)
+												371 button tune 筛选 arrow_drop_down
+													372 text tune
+													373 container 筛选
+														374 text 筛选
+													375 text arrow_drop_down
+												376 container
+													377 button 全部 100
+														378 container 全部
+															379 text 全部
+														380 container 100
+															381 text 100
+													382 button 待核验 18
+														383 container 待核验
+															384 text 待核验
+														385 container 18
+															386 text 18
+													387 button 阻断 9
+														388 container 阻断
+															389 text 阻断
+														390 container 9
+															391 text 9
+													392 button 仅建议 27
+														393 container 仅建议
+															394 text 仅建议
+														395 container 27
+															396 text 27
+													397 button 未发现已覆盖问题 40
+														398 container 未发现已覆盖问题
+															399 text 未发现已覆盖问题
+														400 container 40
+															401 text 40
+												402 container
+													403 checkbox (settable, integer) 1
+													404 container 行 #01
+														405 text 行 #01
+													406 container 待人工核验
+														407 text 待人工核验
+													408 container MERACH Indoor Cycling Bike with LCD Display | BEST SELLER
+														409 text MERACH Indoor Cycling Bike with LCD Display | 
+														410 text BEST SELLER
+													411 text flag
+													412 container 1项待核验 (BEST SELLER) · 2条格式建议
+														413 text 1项待核验 (BEST SELLER) · 2条格式建议
+													414 text auto_fix_high
+													415 container 候选已生成: MERACH Indoor Cycling Bike with LCD Display
+														416 container 候选已生成:
+														417 text  MERACH Indoor Cycling Bike with LCD Display
+													418 container 未复核
+														419 text 未复核
+													420 button 查看 / 复核 chevron_right
+														421 container 查看 / 复核
+															422 text 查看 / 复核
+														423 text chevron_right
+												424 container
+													425 checkbox (settable, integer) 1
+													426 container 行 #02
+														427 text 行 #02
+													428 container 阻断问题
+														429 text 阻断问题
+													430 container FDA APPROVED Miracle Slimming Belt Waist Trainer Burn 1000 Cal
+														431 text FDA APPROVED
+														432 text  Miracle Slimming Belt Waist Trainer 
+														433 text Burn 1000 Cal
+													434 text cancel
+													435 container 阻断: 虚假医疗背书 (FDA APPROVED) · 极端绝对化功效
+														436 text 阻断: 虚假医疗背书 (FDA APPROVED) · 极端绝对化功效
+													437 text block
+													438 container 无可用建议 (需修正事实)
+														439 text 无可用建议 (需修正事实)
+													440 container 待修正阻断
+														441 text 待修正阻断
+													442 button 查看详情 chevron_right
+														443 container 查看详情
+															444 text 查看详情
+														445 text chevron_right
+												446 container
+													447 checkbox (settable, integer) 0
+													448 container 行 #03
+														449 text 行 #03
+													450 container 仅优化建议
+														451 text 仅优化建议
+													452 container Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym Workout
+														453 text Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym Workout
+													454 text lightbulb
+													455 container 2条建议: 词序微调与冗余同义词缩减
+														456 text 2条建议: 词序微调与冗余同义词缩减
+													457 text task_alt
+													458 container 候选建议已生成就绪
+														459 text 候选建议已生成就绪
+													460 container 已采用
+														461 text 已采用
+													462 button 查看 chevron_right
+														463 container 查看
+															464 text 查看
+														465 text chevron_right
+												466 container
+													467 checkbox (settable, integer) 0
+													468 container 行 #04
+														469 text 行 #04
+													470 container 未发现已覆盖问题
+														471 text 未发现已覆盖问题
+													472 container Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap
+														473 text Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap
+													474 text verified
+													475 container 未命中当前规则库阻断或建议项
+														476 text 未命中当前规则库阻断或建议项
+													477 container 无需复核
+														478 text 无需复核
+													479 button 查看 chevron_right
+														480 container 查看
+															481 text 查看
+														482 text chevron_right
+												483 container Value: 2, ID: selected-count-badge
+													484 text 2
+												485 container Value: 已选择 2 条, ID: selected-count-text
+													486 text 已选择 2 条
+												487 button 更多 arrow_drop_up, ID: more-actions-btn
+													488 container 更多
+														489 text 更多
+													490 text arrow_drop_up
+												491 button auto_fix_high 生成建议 (2)
+													492 text auto_fix_high
+													493 container Value: 生成建议 (2), ID: generate-btn-text
+														494 text 生成建议 (2)
+												495 container * 检测结果仅覆盖当前规则，复制或采用不等于店铺已发布
+													496 text * 检测结果仅覆盖当前规则，复制或采用不等于店铺已发布
+											497 container
+												498 link Description: spellcheck 检测, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												499 link Description: history 历史, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												500 link Description: menu_book 规则与词库, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+								501 container
+									502 text Generating Screen...
+									503 container
+										504 AXWebArea about:srcdoc
+											505 container
+												506 button 返回
+												507 heading 1
+													508 text 建议复核
+												509 container 审核模式
+													510 text 审核模式
+												511 text person
+											512 container
+												513 text arrow_back
+												514 container 批量列表 (行 #01)
+													515 text 批量列表 (行 #01)
+												516 container 演示数据
+													517 text 演示数据
+												518 text hourglass_top
+												519 container 当前状态: 待人工复核
+													520 text 当前状态: 待人工复核
+												521 container 规则引擎未发现阻断项，仍需确认商品真实规格与属性一致。
+													522 text 规则引擎未发现阻断项，仍需确认商品真实规格与属性一致。
+												523 container 标题演进对比
+													524 text 标题演进对比
+												525 container 变更差异比对
+													526 text 变更差异比对
+												527 container 原始输入标题
+													528 text 原始输入标题
+												529 container 62 字符
+													530 text 62 字符
+												531 container MERACH Indoor Cycling Bike with LCD Display | BEST SELLER
+													532 text MERACH
+													533 text Indoor Cycling Bike with LCD Display
+													534 text  | BEST SELLER
+												535 text info
+												536 container 原标题含多余异常空格与未经证实营销词 (BEST SELLER)
+													537 text 原标题含多余异常空格与未经证实营销词 (BEST SELLER)
+												538 text south
+												539 container 当前候选建议标题 (可微调)
+													540 text 当前候选建议标题 (可微调)
+												541 container Value: 44 字符, ID: char-counter
+													542 text 44 字符
+												543 text entry area (settable) Value: MERACH Indoor Cycling Bike with LCD Display, ID: suggested-title-input
+												544 text auto_awesome
+												545 container 仅移除无依据修饰词并规范标点空格，未编造任何认证、功效或参数。
+													546 text 仅移除无依据修饰词并规范标点空格，未编造任何认证、功效或参数。
+												547 text verified
+												548 container 规则复检结果: 未发现已覆盖问题
+													549 text 规则复检结果: 未发现已覆盖问题
+												550 container 检测结果仅覆盖当前规则，真实性与履约能力需业务员按实物核对。
+													551 text 检测结果仅覆盖当前规则，真实性与履约能力需业务员按实物核对。
+												552 container 商品事实核验
+													553 container 商品事实核验
+												554 container Value: 进度: 0/3, ID: checklist-progress-pill
+													555 text 进度: 0/3
+												556 container 依据商品基础资料库进行客观核验，必须逐项完成以解锁采用。
+													557 text 依据商品基础资料库进行客观核验，必须逐项完成以解锁采用。
+												558 checkbox (settable, integer) Description: 核实品牌属性: 确认该商品品牌确实为 "MERACH", Value: 0, ID: check-brand
+												559 container 核实品牌属性: 确认该商品品牌确实为 "MERACH"
+													560 text 核实品牌属性: 确认该商品品牌确实为 "MERACH"
+												561 container 排除白牌假借、非授权或蹭品牌借势引流风险
+													562 text 排除白牌假借、非授权或蹭品牌借势引流风险
+												563 container
+													564 text policy
+													565 container 查看备案品牌库凭据
+														566 text 查看备案品牌库凭据
+													567 text expand_more
+												568 checkbox (settable, integer) Description: 核实核心品类: 确认为 "室内健身车" (Indoor Cycling Bike), Value: 0, ID: check-category
+												569 container 核实核心品类: 确认为 "室内健身车" (Indoor Cycling Bike)
+													570 text 核实核心品类: 确认为 "室内健身车" (Indoor Cycling Bike)
+												571 container 确保目标类目与TikTok分类树严格匹配
+													572 text 确保目标类目与TikTok分类树严格匹配
+												573 container
+													574 text category
+													575 container 查看类目映射表
+														576 text 查看类目映射表
+													577 text expand_more
+												578 checkbox (settable, integer) Description: 核实功能配置: 硬件确确实实包含 "LCD 液晶显示屏", Value: 0, ID: check-feature
+												579 container 核实功能配置: 硬件确确实实包含 "LCD 液晶显示屏"
+													580 text 核实功能配置: 硬件确确实实包含 "LCD 液晶显示屏"
+												581 container 防止虚标核心配置引起履约客诉与差评退款
+													582 text 防止虚标核心配置引起履约客诉与差评退款
+												583 container
+													584 text description
+													585 container 查看商品规格说明书
+														586 text 查看商品规格说明书
+													587 text expand_more
+												588 text history_edu
+												589 container 复核记录: 演示 v1
+													590 text 复核记录: 演示 v1
+												591 container 演示数据
+													592 text 演示数据
+												593 button content_copy 复制草稿
+													594 text content_copy
+													595 container Value: 复制草稿, ID: copy-text
+														596 text 复制草稿
+												597 button (disabled) lock 采用此标题 (需核对 0/3), ID: adopt-button
+													598 text lock
+													599 container Value: 采用此标题 (需核对 0/3), ID: adopt-button-text
+														600 text 采用此标题 (需核对 0/3)
+												601 button 更多操作
+												602 text shield
+												603 container 采用仅记录内部决策，不等于店铺已发布
+													604 text 采用仅记录内部决策，不等于店铺已发布
+												605 container toast
+													606 text check_circle
+													607 container Value: 草稿已成功复制到剪贴板, ID: toast-msg
+														608 text 草稿已成功复制到剪贴板
+								609 container
+									610 text Generating Screen...
+									611 container
+										612 AXWebArea about:srcdoc
+											613 container
+												614 text verified_user
+												615 container TK 标题检查
+													616 text TK 标题检查
+												617 container 内部运营
+													618 text 内部运营
+												619 container 演示数据
+													620 text 演示数据
+												621 text person
+											622 container
+												623 heading 1
+													624 text 检查历史记录
+												625 container 演示数据
+													626 text 演示数据
+												627 text manage_search
+												628 container 查看历次单条与批量检查日志，全量审计链路追溯
+													629 text 查看历次单条与批量检查日志，全量审计链路追溯
+												630 text search
+												631 text field (settable) searchInput
+												632 button tune 筛选 arrow_drop_down, ID: filterTrigger
+													633 text tune
+													634 container 筛选
+														635 text 筛选
+													636 text arrow_drop_down
+												637 container dateFilterChips
+													638 button 全部
+														639 container 全部
+															640 text 全部
+													641 button 今天 (12)
+														642 container 今天
+															643 text 今天
+														644 container (12)
+															645 text (12)
+													646 button 昨天 (48)
+														647 container 昨天
+															648 text 昨天
+														649 container (48)
+															650 text (48)
+													651 button 近7天 (180)
+														652 container 近7天
+															653 text 近7天
+														654 container (180)
+															655 text (180)
+												656 text info
+												657 container 检测结果仅覆盖当前规则，不等于店铺已发布
+													658 text 检测结果仅覆盖当前规则，不等于店铺已发布
+												659 container 今天 · 2024年5月18日
+													660 text 今天 · 2024年5月18日
+												661 container 共 12 条记录
+													662 text 共 12 条记录
+												663 container card-1
+													664 container bolt
+单条检测 · 14:32:05
+														665 text bolt
+														666 text 单条检测 · 14:32:05
+													667 container 演示 v1
+														668 text 演示 v1
+													669 container 待人工核验
+														670 text 待人工核验
+													671 container 待复核
+														672 text 待复核
+													673 container MERACH Indoor Cycling Bike with LCD Display | BEST SELLER
+														674 text MERACH Indoor Cycling Bike with LCD Display | BEST SELLER
+													675 text warning
+													676 container 命中 BEST SELLER 营销核验项 · 2条格式建议
+														677 text 命中 BEST SELLER 营销核验项 · 2条格式建议
+													678 button account_tree 查看检查详情 expand_more
+														679 text account_tree
+														680 container Value: 查看检查详情, ID: timeline-toggle-text
+															681 text 查看检查详情
+														682 text expand_more
+													683 button refresh, Help: 重新检测
+													684 button
+												685 container grid_view
+批量导入 (批次 #01) · 11:20:18
+													686 text grid_view
+													687 text 批量导入 (批次 #01) · 11:20:18
+												688 container 演示 v1
+													689 text 演示 v1
+												690 container 阻断问题
+													691 text 阻断问题
+												692 container 已驳回
+													693 text 已驳回
+												694 container FDA APPROVED Miracle Slimming Belt Waist Trainer Burn 1000 Cal
+													695 text FDA APPROVED Miracle Slimming Belt Waist Trainer Burn 1000 Cal
+												696 text dangerous
+												697 container 命中医疗背书阻断规则，禁止采用
+													698 text 命中医疗背书阻断规则，禁止采用
+												699 container person
+操作人: 审核员
+													700 text person
+													701 text 操作人: 审核员
+												702 button refresh, Help: 重新检测
+												703 button
+												704 container bolt
+单条检测 · 09:15:40
+													705 text bolt
+													706 text 单条检测 · 09:15:40
+												707 container 演示 v1
+													708 text 演示 v1
+												709 container 仅优化建议
+													710 text 仅优化建议
+												711 container 已人工采用
+													712 text 已人工采用
+												713 container Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym
+													714 text Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym
+												715 text tips_and_updates
+												716 container 采纳去重建议，已更新候选标题
+													717 text 采纳去重建议，已更新候选标题
+												718 container done_all
+自动采纳推荐词
+													719 text done_all
+													720 text 自动采纳推荐词
+												721 button refresh, Help: 重新检测
+												722 button
+												723 container 昨天 · 2024年5月17日
+													724 text 昨天 · 2024年5月17日
+												725 container 共 48 条记录
+													726 text 共 48 条记录
+												727 container grid_view
+批量导入 (批次 #98) · 16:45:12
+													728 text grid_view
+													729 text 批量导入 (批次 #98) · 16:45:12
+												730 container 演示 v1
+													731 text 演示 v1
+												732 container 未发现已覆盖问题
+													733 text 未发现已覆盖问题
+												734 container Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap
+													735 text Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap
+												736 text check_circle
+												737 container 规则库未发现阻断或格式问题
+													738 text 规则库未发现阻断或格式问题
+												739 container check_circle
+规则排查完毕
+													740 text check_circle
+													741 text 规则排查完毕
+												742 button refresh, Help: 重新检测
+												743 button
+												744 container 已加载近 7 天全部检查历史 (共240项)
+													745 text 已加载近 7 天全部检查历史 (共240项)
+											746 container
+												747 link Description: spellcheck 检测, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												748 link Description: history 历史, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												749 link Description: menu_book 规则与词库, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+								750 container
+									751 text Generating Screen...
+									752 container
+										753 AXWebArea about:srcdoc
+											754 container
+												755 text verified_user
+												756 container TK 标题检查
+													757 text TK 标题检查
+												758 container 内部运营
+													759 text 内部运营
+												760 container 演示数据
+													761 text 演示数据
+												762 text person
+											763 container
+												764 heading 1
+													765 text 规则与词库
+												766 container 演示 v1
+													767 text 演示 v1
+												768 container 标题检查规则库，当前检测仅覆盖已配置规则（演示数据）。
+													769 text 标题检查规则库，当前检测仅覆盖已配置规则（演示数据）。
+												770 container tabContainer
+													771 button rule 检测规则 (11项), ID: tabBtnRules
+														772 text rule
+														773 container 检测规则 (11项)
+															774 text 检测规则 (11项)
+													775 button library_books 受限词库 (4类), ID: tabBtnLexicon
+														776 text library_books
+														777 container 受限词库 (4类)
+															778 text 受限词库 (4类)
+												779 text public
+												780 container 美国 (US) · 英语 (EN) · 全部类目
+													781 text 美国 (US) · 英语 (EN) · 全部类目
+												782 button 切换 expand_more
+													783 container 切换
+														784 text 切换
+													785 text expand_more
+												786 text search
+												787 search text field (settable) ruleSearchInput
+												788 container rulesEngineView
+													789 text tune
+													790 container 规则统计
+														791 text 规则统计
+													792 container 4 阻断
+														793 text 4 阻断
+													794 container ·
+														795 text ·
+													796 container 4 待核验
+														797 text 4 待核验
+													798 container ·
+														799 text ·
+													800 container 3 优化建议
+														801 text 3 优化建议
+													802 container rulesList
+														803 container
+															804 container R-01 营销修饰与绝对化宣称
+																805 text R-01 营销修饰与绝对化宣称
+															806 container 待核验
+																807 text 待核验
+															808 container 待人工核验
+																809 text 待人工核验
+															810 container 检测如 "BEST SELLER", "NO.1", "TOP RATED" 等
+																811 text 检测如 "BEST SELLER", "NO.1", "TOP RATED" 等
+															812 text expand_less
+														813 container rule-body-01
+															814 container 触发条件:
+																815 text 触发条件:
+															816 container 标题出现主观好评、非溯源销量、排他性最佳（如 #1 Pick, Best Gift, Top Choice）声明且未获备案。
+																817 text 标题出现主观好评、非溯源销量、排他性最佳（如 #1 Pick, Best Gift, Top Choice）声明且未获备案。
+															818 container 处理动作:
+																819 text 处理动作:
+															820 container 标记为待核验。
+																821 text 标记为待核验。
+														822 container
+															823 container R-02 医疗功效与未经认证背书
+																824 text R-02 医疗功效与未经认证背书
+															825 container 待核验
+																826 text 待核验
+															827 container 阻断问题
+																828 text 阻断问题
+															829 container 检测 FDA APPROVED, CURE, WEIGHT LOSS 等
+																830 text 检测 FDA APPROVED, CURE, WEIGHT LOSS 等
+															831 text expand_more
+														832 container
+															833 container R-03 连续冗余空格与不可见字符
+																834 text R-03 连续冗余空格与不可见字符
+															835 container 待核验
+																836 text 待核验
+															837 container 仅优化建议
+																838 text 仅优化建议
+															839 container 多于1个空格、零宽空格、前后空格自动提示整理
+																840 text 多于1个空格、零宽空格、前后空格自动提示整理
+															841 text expand_more
+														842 container
+															843 container R-04 非法特殊符号与竖线管道符
+																844 text R-04 非法特殊符号与竖线管道符
+															845 container 待核验
+																846 text 待核验
+															847 container 仅优化建议
+																848 text 仅优化建议
+															849 container 管道符 '|'、特殊表情 Emoji、装饰性符号建议
+																850 text 管道符 '|'、特殊表情 Emoji、装饰性符号建议
+															851 text expand_more
+														852 container
+															853 container R-05 品牌词大小写与白名单校验
+																854 text R-05 品牌词大小写与白名单校验
+															855 container 待核验
+																856 text 待核验
+															857 container 待人工核验
+																858 text 待人工核验
+															859 container 全大写单词检测。命中品牌库白名单则自动豁免
+																860 text 全大写单词检测。命中品牌库白名单则自动豁免
+															861 text expand_more
+														862 container
+															863 container R-06 标题长度（待核验）
+																864 text R-06 标题长度（待核验）
+															865 container 待核验
+																866 text 待核验
+															867 container 待人工核验
+																868 text 待人工核验
+															869 container 长度阈值待核验，当前仅展示字符数
+																870 text 长度阈值待核验，当前仅展示字符数
+															871 text expand_more
+														872 container
+															873 container R-07 重复堆砌关键词
+																874 text R-07 重复堆砌关键词
+															875 container 待核验
+																876 text 待核验
+															877 container 阻断问题
+																878 text 阻断问题
+															879 container 同一有义核心词重复出现多次触发提示
+																880 text 同一有义核心词重复出现多次触发提示
+															881 text expand_more
+														882 container
+															883 container R-08 违禁外部导流联系方式
+																884 text R-08 违禁外部导流联系方式
+															885 container 待核验
+																886 text 待核验
+															887 container 阻断问题
+																888 text 阻断问题
+															889 container 禁止包含 WhatsApp, .com, IG, 电话号码等
+																890 text 禁止包含 WhatsApp, .com, IG, 电话号码等
+															891 text expand_more
+														892 container
+															893 container R-09 竞品品牌混淆蹭词
+																894 text R-09 竞品品牌混淆蹭词
+															895 container 待核验
+																896 text 待核验
+															897 container 待人工核验
+																898 text 待人工核验
+															899 container 检测提及第三方品牌是否有适配说明
+																900 text 检测提及第三方品牌是否有适配说明
+															901 text expand_more
+														902 container
+															903 container R-10 乱码与多语种混排
+																904 text R-10 乱码与多语种混排
+															905 container 待核验
+																906 text 待核验
+															907 container 仅优化建议
+																908 text 仅优化建议
+															909 container US站点标题混入非英文西里尔文、日韩假名或乱码
+																910 text US站点标题混入非英文西里尔文、日韩假名或乱码
+															911 text expand_more
+														912 container
+															913 container R-11 缺失核心商品名识别
+																914 text R-11 缺失核心商品名识别
+															915 container 待核验
+																916 text 待核验
+															917 container 待人工核验
+																918 text 待人工核验
+															919 container 标题全篇无品类基本词（如 Dress, Case, Bottle）
+																920 text 标题全篇无品类基本词（如 Dress, Case, Bottle）
+															921 text expand_more
+												922 text info
+												923 container 检测结果仅覆盖当前规则。演示数据。
+													924 text 检测结果仅覆盖当前规则。演示数据。
+											925 container
+												926 link Description: spellcheck 检测, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												927 link Description: history 历史, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												928 link Description: menu_book 规则与词库, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+								986 container
+									987 text Lemon Operational System
+									988 text Primary
+									989 text #F7A501
+									990 text Secondary
+									991 text #4D4F46
+									992 text Tertiary
+									993 text #26C3FF
+									994 text Neutral
+									995 text #23251D
+									996 container
+										997 text Headline IBM Plex Sans Aa
+									998 button Primary
+									999 button Secondary
+									1000 button Inverted
+									1001 button Outlined
+									1002 text search Search
+									1003 container
+										1004 text Body IBM Plex Sans Aa
+									1005 text home search person
+									1006 container
+										1007 text Label IBM Plex Sans Aa
+									1008 text edit edit Label auto_fix_high category sell delete
+								1045 container
+									1046 text Generating Screen...
+									1047 container
+										1048 AXWebArea about:srcdoc
+											1196 container
+												1197 text TK 标题检查 方案B · 演示 v1 person
+											1198 container
+												1199 button 单条检测
+												1200 button 批量检测
+												1201 text public 美国 (US) · 英语 (EN) · 健身器材 演示筛选 expand_more 商品原标题
+												1202 text 58 字符
+												1203 text entry area (settable) 商品原标题, Value: MERACH  Indoor Cycling Bike with LCD Display | BEST SELLER, ID: title-input
+												1204 button arrow_right 已核实商品事实 (3项已核实) 演示数据, ID: facts-toggle-btn
+													1205 text arrow_right
+													1206 text 已核实商品事实
+													1207 text (3项已核实)
+													1208 text 演示数据
+												1209 button sync 重新检测, ID: recheck-btn
+													1210 text sync
+													1211 text 重新检测
+												1212 text 1 项待核验 2 条格式建议 0.12s 完成 info 检测结果仅覆盖当前规则 (演示 v1) 命中问题与详情 共 3 条 待核验 BEST SELLER
+												1213 button 依据待核验 expand_more
+													1214 text 依据待核验
+													1215 text expand_more
+												1216 text 营销导向词需人工核实凭证，若无平台官方畅销认证授权可能引发下架风险。 仅建议 MERACH··Indoor
+												1217 button 依据待核验 expand_more
+													1218 text 依据待核验
+													1219 text expand_more
+												1220 text 检测到连续半角空格 (2处)，建议整理为单个半角标准空格以提升检索排版一致性。 仅建议 Display | BEST
+												1221 button 依据待核验 expand_more
+													1222 text 依据待核验
+													1223 text expand_more
+												1224 text 竖线管道符 “|” 非英美区标准标题标点分隔符，推荐使用逗号、连字符 “-” 或自然空格。 verified 品牌词  MERACH  在类目白名单内，已通过鉴权，未触发拦截。 推荐优化候选 43 字符 MERACH Indoor Cycling Bike with LCD Display
+												1225 button 进入候选复核 (B-MO-03) arrow_forward
+													1226 text 进入候选复核 (B-MO-03)
+													1227 text arrow_forward
+												1228 text 仅供内部参考，复制或采用不等于店铺已发布。
+											1229 container
+												1230 link Description: search_check 检测, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												1231 link Description: history 历史, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												1232 link Description: menu_book 规则, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+								1070 container
+									1071 text Generating Screen...
+									1072 container
+										1073 AXWebArea about:srcdoc
+											1233 container
+												1234 text TK 标题检查 方案B · 演示 v1 person
+											1235 container
+												1236 link Description: 单条检测, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												1237 container
+													1238 text 批量检测 100条
+												1239 link Description: tune 批量规则配置, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												1240 text upload_file 导入 CSV/XLSX 数据表 (最多100条 / 5MB)
+												1241 button download 下载模板
+													1242 text download
+													1243 text 下载模板
+												1244 text description batch_titles_merach_q2.xlsx 大小 142 KB · 刚刚已上传完成 重新上传
+												1245 container summaryToggle
+													1246 text folder_special 批次 #20240518-01 共 100 条 耗时 3.4s
+													1247 text expand_less
+												1248 container summaryContent
+													1249 text 阻断 9 待核验 18 仅建议 27 未发现问题 40
+												1250 text error_outline 输入失败 
+												1251 text 4
+												1252 text  条 · 执行失败 
+												1253 text 2
+												1254 text  条
+												1255 button 仅重试执行失败 (2条)
+												1256 container
+													1257 text search
+													1258 text field (settable)
+													1259 button close
+												1260 button filter_list 筛选 3, ID: filterTrigger
+													1261 text filter_list
+													1262 text 筛选
+													1263 text 3
+												1264 container
+													1265 button 全部 100
+													1266 button 待核验 18
+													1267 button 阻断 9
+													1268 button 仅建议 27
+													1269 button 未发现 40
+												1270 checkbox (settable, integer) Description: 当前页全选 (已选 2), Value: 1, ID: selectAllTop
+												1271 text 第 1-20 条 / 共 100 条
+												1272 button sort
+												1273 container
+													1274 checkbox (settable, integer) 1
+													1275 text #01 待核验 58 字符 行: 02
+													1276 heading MERACH Indoor Cycling Bike with LCD Display | BEST SELLER Stationary Exercise Bike, Value: 3
+														1277 text MERACH Indoor Cycling Bike with LCD Display |  BEST SELLER  Stationary Exercise Bike
+													1278 text warning 1项待核验 · 2条优化建议 候选已生成 (43 字符) 命中词:  BEST SELLER  (绝对化/排行榜违规风险) storefront TikTok Shop US · 运动户外
+													1279 link Description: 查看/复核 chevron_right, Value: app-companion-430619.appspot.com/projects/16828153940817608201?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.etOqPKhAhvg.O%2Fd%3D1%2Frs%3DAHpOoo-l5JrVgGKVELwC844E6riBHX86-w%2Fm%3D__features__#
+												1280 container
+													1281 checkbox (settable, integer) 1
+													1282 text #02 阻断问题 63 字符 行: 03
+													1283 heading FDA APPROVED Miracle Slimming Belt Waist Trainer Burn 1000 Cal Fast, Value: 3
+														1284 text FDA APPROVED  Miracle Slimming Belt Waist Trainer  Burn 1000 Cal  Fast
+													1285 text block 阻断: 虚假医疗背书 · 功效绝对化 无可用建议 命中词: FDA APPROVED / Burn 1000 Cal Fast (高危下架风险) storefront TikTok Shop US · 个人护理
+													1286 link Description: 查看详情 chevron_right, Value: …
+												1287 container
+													1288 checkbox (settable, integer) 0
+													1289 text #03 仅建议 52 字符 行: 04
+													1290 heading Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym Strength Training, Value: 3
+														1291 text Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym Strength Training
+													1292 text lightbulb 2条格式与词序建议 品牌词前置 · 规格规范 storefront TikTok Shop UK · 健身器材
+													1293 link Description: 查看详情 chevron_right, Value: …
+												1294 container
+													1295 checkbox (settable, integer) 0
+													1296 text #04 未发现已覆盖问题 61 字符 行: 05
+													1297 heading Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap for Workout, Value: 3
+														1298 text Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap for Workout
+													1299 text check_circle 规则库排查完毕，未发现敏感词或结构瑕疵 storefront TikTok Shop US · 瑜伽用品
+													1300 link Description: 查看详情 chevron_right, Value: …
+												1301 button 上一页
+												1302 text 1 / 5 页
+												1303 button 下一页
+												1304 text 已选择 
+												1305 text 2
+												1306 text  条
+												1307 button 清空
+												1308 button 更多操作 expand_more
+													1309 text 更多操作
+													1310 text expand_more
+												1311 button auto_fix_high 生成建议 (2)
+													1312 text auto_fix_high
+													1313 text 生成建议 (2)
+												1314 text 提示: 复制或采用建议标题不等于店铺已自动发布同步。 批量引擎 v2.4
+											1315 container
+												1316 link Description: search_check 检测, Value: …
+												1317 link Description: history 历史, Value: …
+												1318 link Description: menu_book 规则, Value: …
+								1107 container
+									1108 text Generating Screen...
+									1109 container
+										1110 AXWebArea about:srcdoc
+											1319 container
+												1320 text TK 标题检查 方案B · 演示 v1 person
+											1321 container
+												1322 heading 检查历史记录, Value: 1
+													1323 text 检查历史记录
+												1324 text 演示数据 · 演示 v1
+												1325 button tune 高级筛选
+													1326 text tune
+													1327 text 高级筛选
+												1328 text search
+												1329 text field (settable)
+												1330 button 状态: 全部 expand_more, ID: quick-filter-dropdown
+													1331 text 状态:
+													1332 text 全部
+													1333 text expand_more
+												1334 button 全部
+												1335 button 今天 (12)
+												1336 button 昨天 (48)
+												1337 button 近7天 (180)
+												1338 text 今天 · 2024年5月18日 共 12 条记录 edit_note 单条检测 | 14:32:05 待核验 待复核 MERACH Indoor Cycling Bike with LCD Display |  BEST SELLER 长度: 58 字符 · 命中 BEST SELLER 营销待核验 · 2条格式建议 person_outline 操作: 运营自检
+												1339 button 重新检测
+												1340 button 复核详情 arrow_forward
+													1341 text 复核详情
+													1342 text arrow_forward
+												1343 text dataset 批量导入 (批次 #01) | 11:20:18 阻断问题 已驳回 FDA APPROVED  Miracle Slimming Belt Waist Trainer Burn 1000 Cal gpp_maybe 命中医疗功效阻断规则 · 禁止直接同步 审核人: 合规组·李工
+												1344 button 重新检测
+												1345 button 查看详情 chevron_right
+													1346 text 查看详情
+													1347 text chevron_right
+												1348 text edit_note 单条检测 | 09:15:40 仅优化建议 已人工采纳 Adjustable Dumbbells Set 50lbs Weight Pair for Home Gym check_circle 采纳去重建议，更新为 42 字符精简候选 verified 已入标题库
+												1349 button 查看详情 chevron_right
+													1350 text 查看详情
+													1351 text chevron_right
+												1352 text 昨天 · 2024年5月17日 共 48 条记录 dataset 批量导入 (批次 #98) | 16:45:12 未发现已覆盖问题 Yoga Mat Non-Slip Extra Thick Exercise Mat with Carry Strap verified_user 全量规则排查完毕，规范合规度 100% 合规评分: 100 / 100
+												1353 button 查看详情 chevron_right
+													1354 text 查看详情
+													1355 text chevron_right
+												1356 text 今日扫描 12  条 拦截阻断 1  项 人工采纳率 91.4 % 已加载 7 天历史记录 (共 240 项) 仅展示当前规则引擎覆盖结果，无实时店铺发布状态同步。数据每 30 分钟增量归档。
+												1357 button history 加载更多历史日志
+													1358 text history
+													1359 text 加载更多历史日志
+											1360 container
+												1361 link Description: search_check 检测, Value: …
+												1362 link Description: history 历史, Value: …
+												1363 link Description: menu_book 规则, Value: …
+								1140 container
+									1141 text Generating Screen...
+									1142 container
+										1143 AXWebArea about:srcdoc
+											1364 container
+												1365 button chevron_left 批量列表
+													1366 text chevron_left
+													1367 text 批量列表
+												1368 text B Mo 03 建议复核 person
+											1369 container
+												1370 text 待人工核验 规则复检未发现阻断项，仍需确认 3 项商品事实 工单批次 #BATCH-2024-8891 · 渠道规则库：Amazon NA 严选 difference 标题版本比对演进 Δ -15 字符 (-25.8%) 原始输入标题 58 字符 MERACH
+												1371 text [多余空格]
+												1372 text Indoor Cycling Bike with LCD Display
+												1373 text | BEST SELLER
+												1374 text flag 命中 1 项违禁营销词（BEST SELLER）、2 项标点空格建议 arrow_downward 建议优化候选 可微调
+												1375 text 43 字符
+												1376 text entry area (settable) Value: MERACH Indoor Cycling Bike with LCD Display, ID: candidate-title
+												1377 text verified_user 已移除无依据修饰词与冗余符号，算法未编造任何认证、功效与非既定参数。 check_circle 未发现阻断项 (0 阻断 / 0 违禁词) 规则引擎: 演示 v1.0 fact_check 商品事实核验 必须逐项核对以解锁采用
+												1378 container row-1
+													1379 container
+														1380 checkbox (settable, integer) Description: 核实品牌属性：确认为已核准品牌 "MERACH" 商标匹配生效 · 区分大小写白名单已校验, Value: 0
+														1381 text 核实品牌属性：确认为已核准品牌 " MERACH " 商标匹配生效 · 区分大小写白名单已校验
+													1382 button 查看依据待核验 expand_more
+														1383 text 查看依据待核验
+														1384 text expand_more
+												1385 container row-2
+													1386 container
+														1387 checkbox (settable, integer) Description: 核实核心品类：确认为 "室内健身车 (Indoor Cycling Bike)" 品类叶子节点归属：Sports > Exercise & Fitness > Exercise Bikes, Value: 0
+														1388 text 核实核心品类：确认为 " 室内健身车 (Indoor Cycling Bike) " 品类叶子节点归属：Sports > Exercise & Fitness > Exercise Bikes
+													1389 button 查看依据待核验 expand_more
+														1390 text 查看依据待核验
+														1391 text expand_more
+												1392 container row-3
+													1393 container
+														1394 checkbox (settable, integer) Description: 核实硬件配置：商品确实包含 "LCD 液晶显示屏" 核心硬件参数 · 避免非屏幕款误选引发参数不符退款争议, Value: 0
+														1395 text 核实硬件配置：商品确实包含 " LCD 液晶显示屏 " 核心硬件参数 · 避免非屏幕款误选引发参数不符退款争议
+													1396 button 查看依据待核验 expand_more
+														1397 text 查看依据待核验
+														1398 text expand_more
+												1399 text warning 候选无阻断不能代替人工事实核验。核验操作人将留存工单审计记录。
+												1400 button content_copy 复制草稿
+													1401 text content_copy
+													1402 text 复制草稿
+												1403 button (disabled) lock 采用此标题 (需核验 0/3), ID: adopt-btn
+													1404 text lock
+													1405 text 采用此标题 (需核验 0/3)
+												1406 text info 提示：采用仅记录内部运营决策，不等于店铺已发布。
+												1407 container toast
+													1408 text check
+													1409 text 已复制到剪贴板
+								1161 container
+									1162 text Generating Screen...
+									1163 container
+										1164 AXWebArea about:srcdoc
+											1474 container
+												1475 text TK 标题检查 方案B · 演示 v1 person
+											1476 container
+												1477 button rule 检测规则 11, ID: tab-rules
+													1478 text rule
+													1479 text 检测规则
+													1480 text 11
+												1481 button spellcheck 受限词库 4类, ID: tab-keywords
+													1482 text spellcheck
+													1483 text 受限词库
+													1484 text 4类
+												1485 text public 美国 (US) · 英语 (EN) · 全部品类 演示筛选 search
+												1486 search text field (settable) rule-search
+												1487 container rules-view
+													1488 text 2 阻断 4 待核验 4 建议 1 豁免
+													1489 button unfold_more 展开全部, ID: expand-all-btn
+														1490 text unfold_more
+														1491 text 展开全部
+													1492 button R-01 医疗资质与疾病治疗声明 阻断问题 来源：平台要求 · 医疗器械与药物功效承诺硬性拦截 expand_more
+														1493 text R-01
+														1494 text 医疗资质与疾病治疗声明
+														1495 text 阻断问题
+														1496 text 来源：平台要求 · 医疗器械与药物功效承诺硬性拦截
+														1497 text expand_more
+													1498 button R-02 绝对化与虚假最高级用词 阻断问题 来源：平台要求 · 广告法与电商公平竞争审查 expand_more
+														1499 text R-02
+														1500 text 绝对化与虚假最高级用词
+														1501 text 阻断问题
+														1502 text 来源：平台要求 · 广告法与电商公平竞争审查
+														1503 text expand_more
+													1504 button R-03 未经证实营销承诺 (如 BEST SELLER) 待人工核验 来源：官方建议 · 依据待核验（建议提供官方榜单证明） expand_more
+														1505 text R-03
+														1506 text 未经证实营销承诺 (如 BEST SELLER)
+														1507 text 待人工核验
+														1508 text 来源：官方建议 · 依据待核验（建议提供官方榜单证明）
+														1509 text expand_more
+													1510 button R-04 知名品牌商标侵权与蹭词 待人工核验 来源：平台要求 · 知识产权合规库 (IPR Shield) expand_more
+														1511 text R-04
+														1512 text 知名品牌商标侵权与蹭词
+														1513 text 待人工核验
+														1514 text 来源：平台要求 · 知识产权合规库 (IPR Shield)
+														1515 text expand_more
+													1516 button R-05 品牌词全大写白名单豁免 未发现问题 来源：内部经验 · 避免注册商标或法定缩写误判 expand_more
+														1517 text R-05
+														1518 text 品牌词全大写白名单豁免
+														1519 text 未发现问题
+														1520 text 来源：内部经验 · 避免注册商标或法定缩写误判
+														1521 text expand_more
+													1522 button R-06 标题长度（待核验） 待人工核验 说明：长度阈值待核验，当前仅展示字符数，绝不设置硬性上限 expand_more
+														1523 text R-06
+														1524 text 标题长度（待核验）
+														1525 text 待人工核验
+														1526 text 说明：长度阈值待核验，当前仅展示字符数，绝不设置硬性上限
+														1527 text expand_more
+													1528 button R-07 连续空格与不可见字符清洗 仅建议 来源：内部经验 · 过滤零宽字符与多余空格排版 expand_more
+														1529 text R-07
+														1530 text 连续空格与不可见字符清洗
+														1531 text 仅建议
+														1532 text 来源：内部经验 · 过滤零宽字符与多余空格排版
+														1533 text expand_more
+													1534 button R-08 非标准标点与管道符规范 仅建议 来源：官方建议 · 管道符与中英混合标点替换 expand_more
+														1535 text R-08
+														1536 text 非标准标点与管道符规范
+														1537 text 仅建议
+														1538 text 来源：官方建议 · 管道符与中英混合标点替换
+														1539 text expand_more
+													1540 button R-09 同义词堆砌与冗余重复缩减 仅建议 来源：内部经验 · 检索算法去重优化 expand_more
+														1541 text R-09
+														1542 text 同义词堆砌与冗余重复缩减
+														1543 text 仅建议
+														1544 text 来源：内部经验 · 检索算法去重优化
+														1545 text expand_more
+													1546 button R-10 乱码与多语种混排识别 仅建议 来源：内部经验 · 跨国复制标题字符集异常拦截 expand_more
+														1547 text R-10
+														1548 text 乱码与多语种混排识别
+														1549 text 仅建议
+														1550 text 来源：内部经验 · 跨国复制标题字符集异常拦截
+														1551 text expand_more
+													1552 button R-11 缺失核心商品名识别 待人工核验 来源：平台要求 · 必须包含明确的物理商品名词 expand_more
+														1553 text R-11
+														1554 text 缺失核心商品名识别
+														1555 text 待人工核验
+														1556 text 来源：平台要求 · 必须包含明确的物理商品名词
+														1557 text expand_more
+												1558 text lock_clock 演示系统规则词库 (只读模式) 规则与词库均为演示数据，普通运营只读。检测结果仅覆盖当前规则 (演示 v1)。
+											1559 container
+												1560 link Description: search_check 检测, Value: …
+												1561 link Description: history 历史, Value: …
+												1562 link Description: menu_book 规则, Value: …
+							929 image
+							930 image
+							931 image
+							932 image
+							1011 container
+								1012 text entry area (settable) 
+
+									1013 container
+										1471 text What would you like to change or create?
+								1015 button 选择文件
+								1016 pop up button (collapsed) Secondary Actions: Expand
+									1017 image
+								1018 pop up button (collapsed) /, Secondary Actions: Expand
+									1019 image
+										1020 text /
+								1021 button
+									1022 image
+								1023 pop up button (collapsed) Secondary Actions: Expand
+									1024 image
+									1025 image
+								1026 pop up button (collapsed) Balanced, Secondary Actions: Expand
+									1027 text Balanced
+									1028 image
+								1029 button
+									1030 image
+								1031 button (disabled)
+									1032 image
+							959 container
+								960 pop up button (expanded) Secondary Actions: Collapse
+									961 container
+										962 image
+										963 text Agent log
+										964 image
+								965 menu Agent log
+									1033 在当前项目、当前画布中新增独立的“方案 B｜PostHog 风格”对比组。最重要：保留全部现有设计系..., ID: base-ui-_r_dj_
+										1563 image
+										1564 text 在当前项目、当前画布中新增独立的“方案 B｜PostHog 风格”对比组。最重要：保留全部现有设计系...
+									966 请直接修改本项目现有的5个页面，保留布局配色，不新建页面。必须清理生成稿擅自添加的信息：1. 删除所..., ID: base-ui-_r_a3_
+										967 image
+										968 text 请直接修改本项目现有的5个页面，保留布局配色，不新建页面。必须清理生成稿擅自添加的信息：1. 删除所...
+									969 为内部运营工具「TK 标题检查」设计可直接评审的高保真产品页面。界面简体中文，商品标题示例为英文；这..., ID: base-ui-_r_4o_
+										970 image
+										971 text 为内部运营工具「TK 标题检查」设计可直接评审的高保真产品页面。界面简体中文，商品标题示例为英文；这...
+							972 container
+								973 button Collapse panel
+									974 image
+								985 container
+									1038 container
+										1039 image weko bear
+										1040 text 在当前项目、当前画布中新增独立的“方案 B｜PostHog 风格”对比组。最重要：保留全部现有设计系统、页面和原型节点，绝对不要修改、替换、删除、重命名现有节点。现有页面是方案A。请创建5个新的screen节点，在原方案整组下方排成另一行（至少留200px间距），每个新页面名以 B- 开头；不要另建项目，不要使用编辑现有页面的操作。 设计目标：为同一个TK商品标题检测工具提供第二种视觉与布局选择。参考PostHog登录后后台的紧凑侧边导航、上方页面标题和上下文Tabs、搜索左置/筛选右置的工具条、整块数据表、右侧详情面板。结合PostHog暖灰/黄橙品牌。所有业务功能和数据与方案A保持可比较；不得增加分析看板、GMV、CTR、发布或订阅功能。 设计令牌：背景#eeefe9，导航#e5e7e0，内容#fcfcfa，表格/输入白色，主文字#23251d，次文字#4d4f46，边框#bfc1b7或#dcdfd2；主按钮#f7a501+深色文字，选中Tabs用橙色下划线，导航选中用更深暖灰。默认4–6px小圆角、1px细边框、几乎无阴影。去掉蓝紫色大面板、圆角12px卡片套卡片。字体IBM Plex Sans+中文系统无衬线，正文14–16px，标题22px，数字tabular-nums。重点是表格、行和分隔线，不把每段内容做浮动卡片。状态红/琥珀/蓝/绿少量点缀且有文字。每屏一个主操作。保留TK自己的名称，不使用PostHog logo/刺猬/营销插画。 组件语义参考PostHog Lemon UI：Button、Input/Textarea、Select、Tabs、Table、Tag、Checkbox、Collapse、Drawer、Pagination。视觉层面映射这些组件即可，不宣称已安装组件库。所有输入有持久label，disabled与loading可识别。 5页内容：01单条检测完成态；02批量100条列表；03候选标题复核；04检查历史；05规则与词库。用演示数据。原标题“MERACH Indoor Cycling Bike with LCD Display | BEST SELLER”（58字符，包含品牌后2个空格）；候选“MERACH Indoor Cycling Bike with LCD Display”（43字符）。1项待核验(BEST SELLER)、2条格式建议(连续空格/管道符)，不误报品牌大写。3项事实品牌/室内健身车/LCD屏，未勾选完成时采用按钮禁用；候选无阻断不能代替人工事实确认。批量统计100=输入失败4+执行失败2+阻断9+待核验18+仅建议27+未发现已覆盖问题40，重试仅2条执行失败。最多100条/5MB。 文案必须精简：问题列表每项默认一行原因+展开依据，长说明默认折叠；移除PRO、环境ID、引擎/耗时、内部代码、虚构法规名/无依据的降权断言。所有来源未知显示“依据待核验”，长度只计数、阈值待核验，绝不写80或255固定上限。规则版本统一“演示 v1”。页面标题不写合规诊断、不写百分百合规或已达标准。复制/采用不等于发布。11项规则目录，规则及词库只读。 本项目新增MO端：命名B-MO-01 单条检测、B-MO-02 批量检测、B-MO-03 建议复核、B-MO-04 检查历史、B-MO-05 规则词库。390px移动网页，约844px首屏；不是桌面缩小版，不套手机外壳。顶部紧凑标题，底部3导航检测/历史/规则，左右16px，正文16px，触控目标>=44px。单条：市场紧凑选择、标题输入、折叠事实、检测按钮和结果摘要必须在首屏；详细问题默认折叠。批量：紧凑摘要+可展开筛选底部Sheet，列表用带细分隔线的记录卡，最多两行标题，selected2的底部操作条。复核：上下原文/候选+3项确认+固定底部禁用采用按钮，详情页隐藏底部导航。历史按日分组列表、点击进入详情。规则为紧凑折叠目录。内容长度明显短于原方案A，暖灰与黄橙保持统一。请完成5个新页面。
+									1041 button Copy prompt
+										1042 image
+									1043 button 展开
+										1044 image
+									1565 container
+										1566 text 已为您在当前项目画布中新增了完全独立的 
+										1567 text 「方案 B｜PostHog 风格」
+										1568 text  对比组（5 个全新移动端页面，均以 
+										1569 text B-MO-
+										1570 text  开头），
+										1571 text 未修改、未替换、未删除任何现有的方案 A 节点
+										1572 text 。
+										1573 heading 🎨 方案 B 核心设计特征（PostHog Lemon UI 规范）, Value: 3
+											1574 text 🎨 方案 B 核心设计特征（PostHog Lemon UI 规范）
+										1575 content list
+											1576 container
+												1577 AXListMarker • 
+												1578 text 调色板与材质体系 ：
+												1579 content list
+													1580 container
+														1581 AXListMarker • 
+														1582 text 整体背景采用暖灰底色（ #EEEFE9 ），表面与容器采用柔和暖白（ #FCFCFA ），表格与输入框采用纯白（ #FFFFFF ）。
+													1583 container
+														1584 AXListMarker • 
+														1585 text 边框采用细密的 1px 实体线（ #BFC1B7  /  #DCDFD2 ），摒弃大圆角浮动卡片套卡片，完全由行分隔线和纯正 Lemon UI 表格呈现。
+													1586 container
+														1587 AXListMarker • 
+														1588 text 主操作采用经典的 PostHog 亮黄橙色（ #F7A501 ）搭配深色文本（ #23251D ），激活标签栏带有橙色底边指示线。
+											1589 container
+												1590 AXListMarker • 
+												1591 text 高密度与紧凑排版 ：
+												1592 content list
+													1593 container
+														1594 AXListMarker • 
+														1595 text 字体采用 IBM Plex Sans 与系统无衬线搭配，数字采用  tabular-nums  等宽排布；
+													1596 container
+														1597 AXListMarker • 
+														1598 text 触控热区保证 $\ge 44 \times 44\text{px}$，正文保持 16px 清晰度，去掉多余阴影与毛玻璃装饰。
+										1599 heading 📱 方案 B 新增 5 个独立页面概览, Value: 3
+											1600 text 📱 方案 B 新增 5 个独立页面概览
+										1601 content list
+											1602 container
+												1603 AXListMarker • 
+												1604 text B-MO-01 单条检测 (B-MO-01 单条检测)
+												1605 content list
+													1606 container
+														1607 AXListMarker • 
+														1608 text 顶部提供「单条检测 / 批量检测」紧凑 Tabs，市场/语言/品类收敛为简洁指示栏；
+													1609 container
+														1610 AXListMarker • 
+														1611 text 原标题准确输入  MERACH Indoor Cycling Bike with LCD Display | BEST SELLER （精准计算  58 字符 ，不含任何固定上限）；
+													1612 container
+														1613 AXListMarker • 
+														1614 text 折叠式「已核实商品事实（3项已核实）」；
+													1615 container
+														1616 AXListMarker • 
+														1617 text 检测结果反馈为「1 项待核验 · 2 条格式建议」，展示 BEST SELLER、连续空格与管道符问题，默认一句话原因并折叠「依据待核验 ▼」；
+													1618 container
+														1619 AXListMarker • 
+														1620 text 下方提供 43 字符候选建议及直通复核按钮。
+											1621 container
+												1622 AXListMarker • 
+												1623 text B-MO-02 批量检测 (B-MO-02 批量检测)
+												1624 content list
+													1625 container
+														1626 AXListMarker • 
+														1627 text 紧凑折叠式批次结果条（100 条：阻断 9、待核验 18、仅建议 27、未发现问题 40；输入失败 4、执行失败 2），明确提供「仅重试执行失败 (2条)」入口；
+													1628 container
+														1629 AXListMarker • 
+														1630 text 紧凑表格记录行，最多展示两行标题；
+													1631 container
+														1632 AXListMarker • 
+														1633 text 底部浮动批量操作条（已选择 2 条，[更多操作] 与黄橙色主按钮 [生成建议 (2)]）。
+											1634 container
+												1635 AXListMarker • 
+												1636 text B-MO-03 建议复核 (B-MO-03 建议复核)
+												1637 content list
+													1638 container
+														1639 AXListMarker • 
+														1640 text 顶部提供返回批量列表入口，隐藏底部三项导航栏；
+													1641 container
+														1642 AXListMarker • 
+														1643 text 纵向堆叠展示原标题与建议优化候选（43 字符），原标题精确标红显示被移除的空格与营销词，候选框支持微调；
+													1644 container
+														1645 AXListMarker • 
+														1646 text 强制事实核验：品牌、室内健身车、LCD屏幕 3 项 Checkbox， 未全部勾选时「采用此标题 (需核验 0/3)」严格置灰禁用 ；底部标注“采用仅记录内部决策，不等于店铺已发布”。
+											1647 container
+												1648 AXListMarker • 
+												1649 text B-MO-04 检查历史 (B-MO-04 检查历史)
+												1650 content list
+													1651 container
+														1652 AXListMarker • 
+														1653 text 按「今天 / 昨天」分组的高密度流水记录，每条清晰展示原标题、时间戳、状态标签、操作人与快速重新检测；
+													1654 container
+														1655 AXListMarker • 
+														1656 text 底部展示数据归档提示与数据说明。
+											1657 container
+												1658 AXListMarker • 
+												1659 text B-MO-05 规则词库 (B-MO-05 规则词库)
+												1660 content list
+													1661 container
+														1662 AXListMarker • 
+														1663 text 紧凑的分段切换（检测规则 11 项 / 受限词库 4 类）；
+													1664 container
+														1665 AXListMarker • 
+														1666 text 完整展示 11 项可展开目录（包括 R-06 长度待核验、大写白名单豁免、连续空格、同义词堆砌等）；
+													1667 container
+														1668 AXListMarker • 
+														1669 text 普通运营只读模式，无虚构热度与内部技术代码。
+										1670 text 现在方案 A（蓝调中性灰）与方案 B（PostHog 暖灰黄橙）已在画布中完整并行并列，方便随时进行两套视觉语言与操作密度的横向评审。
+				975 container 无法播放媒体。
+
+The focused UI element is 1031 button (disabled)

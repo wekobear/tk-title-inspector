@@ -1,0 +1,5 @@
+title_original,market,language,category,brand_status,brand_name,product_type,features,facts_source,facts_complete
+"MERACH  Indoor Cycling Bike | BEST SELLER",US,en,fitness,branded,MERACH,Indoor Cycling Bike,,合成测试资料,false
+"<img src=x onerror=alert(1)>",US,en,other,unbranded,,Bike,,合成测试资料,false
+,US,en,fitness,unknown,,,,,false
+Indoor Cycling Bike with LCD Display,CA,en,fitness,unbranded,,Indoor Cycling Bike,LCD Display,QA invalid scope,true
