@@ -1,3 +1,4 @@
+import { EMPTY_SET, validateSet, evaluateRule } from './custom-rules.js';
 export const RULE_VERSION = 'US-draft-2026.11.03';
 const policy = 'https://seller-us.tiktok.com/university/essay?knowledge_id=3196690250417921';
 const guide = 'https://seller-us.tiktok.com/university/essay?knowledge_id=7073362639816491';
@@ -49,7 +50,8 @@ function missingFacts(x) {
   if(!x.factsComplete) list.push('未确认已提供完整商品事实');
   return list;
 }
-export function inspect(data={}) {
+export function inspect(data={}, customRuleSet=EMPTY_SET) {
+  if (!validateSet(customRuleSet)) throw new Error('自定义规则集无效');
   const x={...DEFAULT_INPUT,...data};
   for(const key of ['title','market','language','category','brandStatus','brand','productType','features','factsSource']) x[key]=typeof x[key]==='string'?x[key]:'';
   x.factsComplete=x.factsComplete===true;
@@ -65,6 +67,7 @@ export function inspect(data={}) {
     coverage.push(c);
     if(error){c.state='SKIPPED';c.reason='输入无效';continue;}
     if(rule.mode==='disabled'){c.state='DISABLED';c.reason=rule.description;continue;}
+    if((customRuleSet.builtinDisabled ?? []).includes(rule.id)){c.state='DISABLED';c.reason='用户已停用此内置规则';continue;}
     if(rule.id!=='T07'&&!hasScope(x)){c.state='SKIPPED';c.reason='当前市场或语言不在研究规则范围内';continue;}
     switch(rule.id) {
       case 'T01': if(length>150)add(rule.id,'SUGGESTION',`${length}字符，超过官方40–150字符优化建议；不代表超过发布上限。`);break;
@@ -122,7 +125,12 @@ export function inspect(data={}) {
       }
     }
   }
-  return {id:uuid(),createdAt:new Date().toISOString(),title:x.title,input:structuredClone(x),ruleVersion:RULE_VERSION,status:error?'INVALID_INPUT':'REVIEW_REQUIRED',issues,coverage,length,counts:{review:issues.filter(i=>i.severity==='REVIEW').length,suggestion:issues.filter(i=>i.severity==='SUGGESTION').length},missing:[...missingFacts(x),'研究规则尚未发布为生产规则包，结果始终保留草稿标识'],error};
+  for (const rule of customRuleSet.rules) {
+    const outcome=error?{state:'SKIPPED',reason:'输入无效'}:!rule.enabled?{state:'DISABLED',reason:'规则已停用'}:evaluateRule(rule,x);
+    coverage.push({ruleId:rule.id,name:rule.name,state:outcome.state,reason:outcome.reason||'已执行自定义规则',sourceType:'CUSTOM',revision:rule.revision});
+    if(outcome.hit) issues.push({id:`${rule.id}-${issues.length}`,ruleId:rule.id,name:rule.name,severity:rule.severity,message:rule.message,spans:outcome.spans,sourceType:'CUSTOM',sourceTitle:'自定义规则（非平台政策）',sourceUrl:'',revision:rule.revision});
+  }
+  return {customRuleVersion:customRuleSet.version,id:uuid(),createdAt:new Date().toISOString(),title:x.title,input:structuredClone(x),ruleVersion:RULE_VERSION,status:error?'INVALID_INPUT':'REVIEW_REQUIRED',issues,coverage,length,counts:{review:issues.filter(i=>i.severity==='REVIEW').length,suggestion:issues.filter(i=>i.severity==='SUGGESTION').length},missing:[...missingFacts(x),'研究规则尚未发布为生产规则包，结果始终保留草稿标识'],error};
 }
 export function suggestFormatting(title){return title.replace(/ +/g,' ').replace(/^ +| +$/g,'');}
 export function reviewRequirements(input){
@@ -134,7 +142,8 @@ export function reviewRequirements(input){
   r.push({id:'claims',label:'已逐项核对候选中的全部数量、规格、材质、功能和认证，未增加无依据内容或遗漏必要信息'}, {id:'limits',label:'已处理建议并理解当前仅为个人草稿复核记录，不代表平台审核或已发布'});
   return r;
 }
-export function canRecordReview({result,candidateResult,candidate,checkedIds=[]}){
+export function canRecordReview({result,candidateResult,candidate,checkedIds=[],currentCustomVersion=EMPTY_SET.version}){
+  if(result?.ruleVersion!==RULE_VERSION || candidateResult?.ruleVersion!==RULE_VERSION || result?.customRuleVersion!==currentCustomVersion || candidateResult?.customRuleVersion!==currentCustomVersion)return false;
   if(!result||!candidateResult||result.error||candidateResult.error||candidateResult.title!==candidate||!candidate.trim())return false;
   const {title:_,...base}=result.input, {title:__,...next}=candidateResult.input;
   if(JSON.stringify(base)!==JSON.stringify(next)||missingFacts(result.input).length||candidateResult.counts.review>0)return false;

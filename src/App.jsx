@@ -1,3 +1,6 @@
+import RuleSwitch from './RuleSwitch.jsx';
+import CustomRules from './CustomRules.jsx';
+import {readCustom, writeCustom} from './custom-rules.js';
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
   RULES,
@@ -20,6 +23,7 @@ const SOURCE_TYPE_LABELS = {
   PLATFORM_REQUIREMENT: '平台政策相关',
   OFFICIAL_RECOMMENDATION: '官方建议',
   INTERNAL_HEURISTIC: '本工具建议',
+  CUSTOM: '自定义规则（非平台政策）',
 };
 
 const COVERAGE_STATE_LABELS = {
@@ -251,9 +255,10 @@ function InputPanel({
   onClear,
   checking,
   engineError,
+  rulesBlocked,
 }) {
   const charCount = cpLength(form.title);
-  const disabled = checking || charCount === 0;
+  const disabled = checking || charCount === 0 || rulesBlocked;
   return (
     <section className="panel" aria-labelledby="single-input-title">
       <h2 className="panel-title" id="single-input-title">
@@ -516,6 +521,7 @@ function CandidatePanel({
   onCopy,
   copyMsg,
   rechecking,
+  rulesStale,
 }) {
   const [copyState, setCopyState] = useState(null);
   const textareaRef = useRef(null);
@@ -562,7 +568,16 @@ function CandidatePanel({
         onChange={(event) => onCandidateChange(event.target.value)}
         placeholder="按上方提示修改，再点击下方按钮检测一次"
       />
+      {rulesStale ? <p className="inline-note">规则已更新，请先重新检测原标题，再检测修改稿。</p> : null}
       <div className="btn-row">
+        <button
+          type="button"
+          className="btn btn-sm"
+          onClick={onRecheck}
+          disabled={!candidate || rechecking || rulesStale}
+        >
+          {rechecking ? '复检中…' : '检测修改后的标题'}
+        </button>
         <button
           type="button"
           className="btn btn-secondary btn-sm"
@@ -571,14 +586,6 @@ function CandidatePanel({
           title="仅去除首尾空格并合并连续 ASCII 空格，不删词、不改大小写"
         >
           一键整理空格
-        </button>
-        <button
-          type="button"
-          className="btn btn-sm"
-          onClick={onRecheck}
-          disabled={!candidate || rechecking}
-        >
-          {rechecking ? '复检中…' : '检测修改后的标题'}
         </button>
         <button type="button" className="btn btn-secondary btn-sm" onClick={doCopy} disabled={!candidate}>
           复制修改后标题
@@ -632,7 +639,7 @@ function CandidatePanel({
   );
 }
 
-function ReviewPanel({ result, candidateResult, candidate, checkedIds, onToggle, onRecord, reviewed, reviewedAt }) {
+function ReviewPanel({ result, candidateResult, candidate, checkedIds, onToggle, onRecord, reviewed, reviewedAt, currentCustomVersion }) {
   const effectiveResult = candidateResult || result;
   const requirements = useMemo(() => {
     try {
@@ -649,13 +656,14 @@ function ReviewPanel({ result, candidateResult, candidate, checkedIds, onToggle,
 
   const eligible = useMemo(() => {
     try {
-      return canRecordReview({ result, candidateResult, candidate, checkedIds });
+      return canRecordReview({ result, candidateResult, candidate, checkedIds, currentCustomVersion });
     } catch {
       return false;
     }
-  }, [result, candidateResult, candidate, checkedIds]);
+  }, [result, candidateResult, candidate, checkedIds, currentCustomVersion]);
 
   const blockers = result.missing.filter(item => !item.startsWith('研究规则')); 
+  if (result.ruleVersion !== RULE_VERSION || result.customRuleVersion !== currentCustomVersion || (candidateResult && (candidateResult.ruleVersion !== RULE_VERSION || candidateResult.customRuleVersion !== currentCustomVersion))) blockers.push('规则已更新，重新检测原标题和修改稿后才能记录复核。');
   if (!candidateResult) blockers.push('候选标题尚未重新检测（需以最新候选为准）。');
   else if (candidateResult.status === 'INVALID_INPUT') blockers.push('候选标题输入无效，需修正后重新检测。');
   if (candidateResult && candidate !== candidateResult.title)
@@ -754,6 +762,7 @@ function ResultPanel({
   rechecking,
   onToggleCheck,
   onRecordReview,
+  currentCustomVersion,
 }) {
   const [showCoverage, setShowCoverage] = useState(false);
   const invalid = result.status === 'INVALID_INPUT';
@@ -780,6 +789,8 @@ function ResultPanel({
         </span>
       </div>
 
+      <p className="inline-note">内置命中 {result.issues.filter(i=>i.sourceType!=='CUSTOM').length} · 自定义命中 {result.issues.filter(i=>i.sourceType==='CUSTOM').length} · 本机规则配置版本 {result.customRuleVersion || '旧记录'}</p>
+      {result.customRuleVersion !== currentCustomVersion || result.ruleVersion !== RULE_VERSION ? <p className="msg msg-error">规则已更新，重新检测后才能记录复核。</p> : null}
       {invalid ? (
         <>
           <Msg kind="error">{result.error || '输入无效，请检查标题后重新检测。'}</Msg>
@@ -814,6 +825,7 @@ function ResultPanel({
               onCopy={onCopy}
               copyMsg={copyMsg}
               rechecking={rechecking}
+              rulesStale={result.ruleVersion !== RULE_VERSION || result.customRuleVersion !== currentCustomVersion}
             />
           </div>
 
@@ -845,6 +857,7 @@ function ResultPanel({
               onRecord={onRecordReview}
               reviewed={reviewed}
               reviewedAt={reviewedAt}
+              currentCustomVersion={currentCustomVersion}
             />
           </div>
         </>
@@ -863,7 +876,7 @@ const BATCH_FILTERS = [
   { value: 'error', label: '解析/执行错误' },
 ];
 
-function BatchPanel({ baseForm, records, onPersist, onOpenRow }) {
+function BatchPanel({ baseForm, records, onPersist, onOpenRow, customStore }) {
   const [rows, setRows] = useState([]);
   const [sourceLabel, setSourceLabel] = useState('');
   const [parseError, setParseError] = useState('');
@@ -933,7 +946,8 @@ function BatchPanel({ baseForm, records, onPersist, onOpenRow }) {
   }, [pasteText, baseForm]);
 
   const runBatch = useCallback(async () => {
-    if (rows.length === 0 || running) return;
+    if (rows.length === 0 || running || customStore.error) return;
+    const snapshot=structuredClone(customStore.set);
     setRunning(true);
     setRunError('');
     setRunMsg('批量检测执行中…');
@@ -943,7 +957,7 @@ function BatchPanel({ baseForm, records, onPersist, onOpenRow }) {
       let runError = '';
       try {
         const inspectInput = { ...row.input };
-        result = inspect(inspectInput);
+        result = inspect(inspectInput, snapshot);
         if (row.error) {
           runError = row.error;
           result = { ...result, status: 'INVALID_INPUT', error: row.error, issues: [], counts: {review: 0, suggestion: 0},
@@ -951,7 +965,7 @@ function BatchPanel({ baseForm, records, onPersist, onOpenRow }) {
         }
       } catch (error) {
         runError = row.error || (error && error.message ? error.message : String(error));
-        const failed = inspect({title: ''});
+        const failed = inspect({title: ''}, snapshot);
         result = {...failed, title: row.input.title, input: {...row.input}, length: cpLength(row.input.title), error: `检测失败：${runError}`};
       }
       nextRows.push({ ...row, result, runError });
@@ -970,7 +984,7 @@ function BatchPanel({ baseForm, records, onPersist, onOpenRow }) {
     }
     setRunning(false);
     if (executedRecords.length > 0 && onPersist) onPersist(executedRecords);
-  }, [rows, running, onPersist]);
+  }, [rows, running, onPersist, customStore]);
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -1079,7 +1093,7 @@ function BatchPanel({ baseForm, records, onPersist, onOpenRow }) {
         </div>
 
         <div className="btn-row">
-          <button type="button" className="btn" onClick={runBatch} disabled={rows.length === 0 || running}>
+          <button type="button" className="btn" onClick={runBatch} disabled={rows.length === 0 || running || !!customStore.error}>
             {running ? '批量检测中…' : '开始批量检测'}
           </button>
           <button
@@ -1464,32 +1478,47 @@ function HistoryPanel({ records, storageMsg, onOpenRecord, onExport }) {
 
 /* ================= 规则与词库 ================= */
 
-function RulesPanel() {
-  const autoCount = RULES.filter((rule) => rule.mode === 'auto').length;
-  const manualCount = RULES.filter((rule) => rule.mode === 'manual').length;
-  const disabledCount = RULES.filter((rule) => rule.mode === 'disabled').length;
+function RulesPanel({customStore,onWrite,onReload,onReset}) {
+  const [pending, setPending] = useState(false);
+  const [switchError, setSwitchError] = useState('');
+  const disabled = customStore.set?.builtinDisabled ?? [];
+  const autoCount = RULES.filter(rule => rule.mode === 'auto' && !disabled.includes(rule.id)).length;
+  const manualCount = RULES.filter(rule => rule.mode === 'manual' && !disabled.includes(rule.id)).length;
+  const disabledCount = RULES.length - autoCount - manualCount;
+  const toggleBuiltin = async rule => {
+    if (pending || customStore.error || rule.mode === 'disabled') return;
+    const next = disabled.includes(rule.id) ? disabled.filter(id => id !== rule.id) : [...disabled, rule.id];
+    setPending(true);
+    const result = await onWrite(customStore.raw, customStore.set.rules, next);
+    setPending(false);
+    setSwitchError(result.error || '内置规则配置已更新。');
+  };
   return (
     <div>
+      <CustomRules store={customStore} onWrite={onWrite} onReload={onReload} onReset={onReset} />
       <section className="panel">
-        <h2 className="panel-title">规则目录（只读）</h2>
+        <h2 className="panel-title">内置规则目录</h2>
         <p className="panel-hint">
           共 {RULES.length} 项检查：自动 {autoCount} · 人工 {manualCount} · 停用 {disabledCount}。规则包版本{' '}
-          <span className="mono">{RULE_VERSION}</span>，为草稿版本，未经生产发布核验；本页仅展示当前生效配置，不提供编辑或发布。
+          <span className="mono">{RULE_VERSION}</span>，为草稿版本，未经生产发布核验；规则定义只读，可在本机启停已实现的检查。
         </p>
+        {switchError ? <p className="msg" role="status">{switchError}{switchError.includes('重新载入') ? <button className="btn btn-secondary btn-sm" onClick={()=>{onReload();setSwitchError('已重新载入本机规则配置。');}}>重新载入</button> : null}</p> : null}
+        {customStore.error ? <p className="msg msg-error">规则配置读取失败，请先备份并恢复。</p> : null}
         <div className="rule-list">
           {RULES.map((rule) => (
-            <details className="rule" key={rule.id}>
+            <div className="builtin-rule-wrap" key={rule.id}>
+            <details className="rule">
               <summary>
                 <span className="rule-name">{rule.name}</span>
-                <Badge tone={rule.mode === 'disabled' ? 'neutral' : 'ink'}>
-                  {MODE_LABELS[rule.mode] || rule.mode}
+                <Badge tone={rule.mode === 'disabled' || disabled.includes(rule.id) ? 'neutral' : 'ink'}>
+                  {rule.mode === 'disabled' ? '未实现' : disabled.includes(rule.id) ? '已停用' : MODE_LABELS[rule.mode] || rule.mode}
                 </Badge>
               </summary>
               <div className="rule-body">
                 <p style={{ margin: 0 }}>{rule.description}</p>
                 {rule.mode === 'disabled' ? (
                   <div className="notice" style={{ margin: 0 }}>
-                    该检查当前已停用：停用不表示对应问题不存在，仍需人工判断。
+                    尚未实现自动检查，暂不可启用。相关问题仍需人工判断。
                   </div>
                 ) : null}
                 <dl className="kv">
@@ -1532,6 +1561,9 @@ function RulesPanel() {
                 ) : null}
               </div>
             </details>
+            <RuleSwitch enabled={rule.mode !== 'disabled' && !disabled.includes(rule.id)} label={`启用内置规则 ${rule.name}`} disabled={pending || !!customStore.error || rule.mode === 'disabled'} describedBy={rule.mode === 'disabled' ? 'builtin-unavailable' : undefined} onClick={()=>toggleBuiltin(rule)} />
+            {rule.mode === 'disabled' ? <span id="builtin-unavailable" className="builtin-unavailable">尚未实现自动检查，暂不可启用</span> : null}
+            </div>
           ))}
         </div>
       </section>
@@ -1609,6 +1641,10 @@ export default function App() {
 
   const [records, setRecords] = useState([]);
   const [storageMsg, setStorageMsg] = useState('');
+  const [customStore,setCustomStore]=useState(readCustom);
+  const reloadCustom=useCallback(()=>setCustomStore(readCustom()),[]);
+  const writeRules=useCallback(async (expected,rules,builtinDisabled)=>{const response=await writeCustom(expected,rules,builtinDisabled);if(response.set){setCustomStore(response);setCheckedIds([]);}return response;},[]);
+  useEffect(()=>{const listener=e=>{if(e.key===null || e.key==='tk-title-inspector.custom-rules.v1'){setCustomStore(readCustom());setCheckedIds([]);}};window.addEventListener('storage',listener);return ()=>window.removeEventListener('storage',listener);},[]);
   const recordsRef = useRef([]);
 
   useEffect(() => {
@@ -1667,13 +1703,15 @@ export default function App() {
 
   const runCheck = useCallback(() => {
     setEngineError('');
+    if(customStore.error){setEngineError('本机规则配置损坏，请先在规则页备份并恢复。');return;}
     setChecking(true);
     setFromRow(null);
     try {
       const input = buildInput(form);
-      const checkResult = inspect(input);
+      const checkResult = inspect(input, customStore.set);
       setResult(checkResult);
-      setCandidate(checkResult.title);
+      const nextCandidate = result && result.title === checkResult.title ? candidate : checkResult.title;
+      setCandidate(nextCandidate);
       setCandidateResult(null);
       setCheckedIds([]);
       setReviewed(false);
@@ -1683,14 +1721,14 @@ export default function App() {
           ? '检测未执行：输入无效。'
           : `检测完成：待核验 ${checkResult.counts.review} 项，建议 ${checkResult.counts.suggestion} 条。结果为待人工核验的草稿。`
       );
-      persistRecord(makeRecord(checkResult, checkResult.title, null, [], false, null));
+      persistRecord(makeRecord(checkResult, nextCandidate, null, [], false, null));
     } catch (error) {
       setEngineError(`检测失败：${error && error.message ? error.message : String(error)}`);
       setLiveMsg('检测失败，未生成结果。');
     } finally {
       setChecking(false);
     }
-  }, [form, persistRecord]);
+  }, [form, persistRecord, customStore, result, candidate]);
 
   const handleCandidateChange = useCallback(
     (value) => {
@@ -1727,11 +1765,12 @@ export default function App() {
   }, [candidate]);
 
   const recheckCandidate = useCallback(() => {
-    if (!result || !candidate) return;
+    if (!result || !candidate || customStore.error) return;
+    if (result.ruleVersion !== RULE_VERSION || result.customRuleVersion !== customStore.set.version) {setEngineError('规则已更新，请先重新检测原标题，再检测修改稿。');return;}
     setRechecking(true);
     try {
       const input = { ...(result.input || buildInput(form)), title: candidate };
-      const nextResult = inspect(input);
+      const nextResult = inspect(input, customStore.set);
       setCandidateResult(nextResult);
       setCheckedIds([]);
       setReviewed(false);
@@ -1747,7 +1786,7 @@ export default function App() {
     } finally {
       setRechecking(false);
     }
-  }, [result, candidate, form, persistRecord]);
+  }, [result, candidate, form, persistRecord, customStore]);
 
   const toggleChecked = useCallback((id, checked) => {
     setCheckedIds((current) => (checked ? [...current, id] : current.filter((item) => item !== id)));
@@ -1755,7 +1794,7 @@ export default function App() {
 
   const recordReview = useCallback(() => {
     if (!result) return;
-    const eligible = canRecordReview({ result, candidateResult, candidate, checkedIds });
+    const eligible = !customStore.error && canRecordReview({ result, candidateResult, candidate, checkedIds, currentCustomVersion:customStore.set.version });
     if (!eligible) {
       setLiveMsg('尚不满足记录人工复核的条件。');
       return;
@@ -1765,7 +1804,7 @@ export default function App() {
     setReviewedAt(now);
     setLiveMsg('已记录人工复核（草稿记录，不等于正式采用或平台审核通过）。');
     persistRecord(makeRecord(result, candidate, candidateResult, checkedIds, true, now));
-  }, [result, candidateResult, candidate, checkedIds, persistRecord]);
+  }, [result, candidateResult, candidate, checkedIds, persistRecord, customStore]);
 
   const handleCopy = useCallback((ok) => {
     setCopyMsg(ok ? '候选文本已复制。' : '复制失败。');
@@ -1827,6 +1866,7 @@ export default function App() {
         onClear={clearForm}
         checking={checking}
         engineError={engineError}
+        rulesBlocked={!!customStore.error}
       />
       <div>
         {!result ? (
@@ -1844,7 +1884,7 @@ export default function App() {
             <div className="stale">
               <span className="stale-strong">输入已修改，请重新检测</span>
               上一次的检测结果与快照已过期并隐藏，避免新旧结论混用。
-              <div className="btn-row" style={{ justifyContent: 'center', marginTop: 12 }}>
+              <div className="btn-row" style={{ marginTop: 12 }}>
                 <button type="button" className="btn" onClick={runCheck} disabled={checking || cpLength(form.title) === 0}>
                   {checking ? '检测中…' : '立即重新检测'}
                 </button>
@@ -1873,6 +1913,7 @@ export default function App() {
               rechecking={rechecking}
               onToggleCheck={toggleChecked}
               onRecordReview={recordReview}
+              currentCustomVersion={customStore.error ? null : customStore.set.version}
             />
           </>
         )}
@@ -1912,12 +1953,13 @@ export default function App() {
         <div hidden={view !== 'workbench'}>
             <div className="page-head">
               <h1 className="page-title">检测工作台</h1>
-              <span className="version-tag">本地试用版 v0.1</span>
+              <span className="version-tag">本地试用版 v0.2</span>
             </div>
             <p className="page-sub">
               检查 TikTok Shop 商品标题，核对问题与依据，再整理可供人工复核的候选。
             </p>
             {storageMsg ? <Msg kind="error">{storageMsg}</Msg> : null}
+            {customStore.error ? <Msg kind="error">本机规则配置损坏，检测已暂停；请到规则与词库备份并恢复。</Msg> : null}
             <div className="tabs" role="tablist" aria-label="检测方式">
               <button
                 type="button"
@@ -1938,7 +1980,7 @@ export default function App() {
             </div>
             <div hidden={tab !== 'single'}>{singleArea}</div>
             <div hidden={tab !== 'batch'}>
-              <BatchPanel baseForm={form} records={records} onPersist={persistMany} onOpenRow={openBatchRow} />
+              <BatchPanel baseForm={form} records={records} onPersist={persistMany} onOpenRow={openBatchRow} customStore={customStore} />
             </div>
         </div>
 
@@ -1957,19 +1999,19 @@ export default function App() {
           <>
             <div className="page-head">
               <h1 className="page-title">规则与词库</h1>
-              <span className="version-tag">只读</span>
+              <span className="version-tag">内置规则定义只读，可启停</span>
             </div>
             <p className="page-sub">
               展示当前草稿规则包的 11 项检查与词库。来源链接指向官方页面，级别与阈值以规则元数据为准。
             </p>
-            <RulesPanel />
+            <RulesPanel customStore={customStore} onWrite={writeRules} onReload={reloadCustom} onReset={expected=>writeRules(expected,[],[])} />
           </>
         ) : null}
       </main>
 
       <footer className="footer">
         <div className="footer-inner">
-          <span>TK 标题检查 · 本地试用版 v0.1 · 检查与复核不等于发布</span>
+          <span>TK 标题检查 · 本地试用版 v0.2 · 检查与复核不等于发布</span>
           <span>本机浏览器保存 · AI 改写未接入 · 规则包 {RULE_VERSION}</span>
         </div>
       </footer>
